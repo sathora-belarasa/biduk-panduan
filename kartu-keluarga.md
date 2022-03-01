@@ -23,15 +23,25 @@ Berikut kolom wajib diisi ketika penambahan KK pada proses validasi:
 
 Berikut rekomendasi kolom yang diisi ketika penambahan KK setelah validasi berhasil:
 
-- Keuskupan; tidak ada pilihan lain selain Keuskupan Agung Jakarta.
-- Paroki; tidak ada pilihan lain selain Bojong Indah.
-- Wilayah; tidak ada pilihan lain selain wilayah sesuai konfigurasi username.
-- Lingkungan; tidak ada pilihan lain selain lingkungan sesuai konfigurasi username.
-- Alamat lengkap; penulisannya cukup nama jalan, nomor blok, dan nomor rumah; nama komplek jika diperlukan sekali; tanpa nama kota, kode pos, RT/RW; sederhana tapi bisa dicari.
+- Keuskupan 
+    Hanya ada pilihan Keuskupan Agung Jakarta.
+- Paroki
+    Hanya ada pilihan Bojong Indah.
+- Wilayah
+    Hanya ada pilihan wilayah sesuai konfigurasi username.
+- Lingkungan
+    Hanya ada pilihan lingkungan sesuai konfigurasi username.
+- Alamat lengkap
+    Saran penulisannya cukup nama jalan, nomor blok, dan nomor rumah.
+    Nama komplek jika diperlukan sekali. 
+    Tanpa nama kota, kode pos, RT/RW.
+    Sesingkat mungkin tapi bisa ditemukan.
 - Kecamatan
 - Kelurahan
-- RT; sistem tidak mewajibkan tapi sebaiknya diisi.
-- RW; sistem tidak mewajibkan tapi sebaiknya diisi.
+- RT
+    BIDUK tidak mewajibkan tapi sebaiknya diisi.
+- RW
+    BIDUK tidak mewajibkan tapi sebaiknya diisi.
 
 Selanjutnya, penambahan anggota-anggota keluarga.
 
