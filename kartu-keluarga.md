@@ -94,10 +94,14 @@ Berikut beberapa kemungkinan skenario terkait Kartu Keluarga BIDUK (selanjutnya 
 5. Pengurus lingkungan info umat proses mutasi keluar berhasil.
 6. Umat hubungi pengurus lingkungan tujuan untuk proses mutasi masuk.
 
-### Pemidahan KK Masuk
+### Pemindahan KK Masuk
 
 1. Umat telah menyelesaikan proses mutasi keluar di lingkungan lama.
 2. Umat mengajukan proses mutasi masuk dengan infokan Kode KK.
 3. Berdasarkan Kode KK, pengurus lingkungan mencari KK umat pada menu Klaim Mutasi Keluarga.
 4. Pengurus lingkungan klaim masuk keluarga baru ini.
 5. Pengurus lingkungan cetak KK sebagai bukti lalu diserahkan kepada umat yang mengajukan mutasi masuk.
+
+## Referensi
+
+- User Manual BIDUK v1.26.0 18/01/2022 3.4.1 hal 161
