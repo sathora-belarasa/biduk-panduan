@@ -99,8 +99,8 @@ Berikut beberapa kemungkinan skenario terkait BIDUK. Tidak menutup skenario lain
 
 ## Prosedur
 
-- <a href="/biduk-panduan/kartu-keluarga" alt="Prosedur Kartu Keluarga BIDUK">Kartu Keluarga BIDUK</a>
-- <a href="/biduk-panduan/anggota-keluarga" alt="Prosedur Anggota Keluarga BIDUK">Anggota Keluarga BIDUK</a>
+- <a href="kartu-keluarga" alt="Prosedur Kartu Keluarga BIDUK">Kartu Keluarga BIDUK</a>
+- <a href="anggota-keluarga" alt="Prosedur Anggota Keluarga BIDUK">Anggota Keluarga BIDUK</a>
 
 <a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
 
