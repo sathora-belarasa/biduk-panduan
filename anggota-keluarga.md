@@ -1,6 +1,6 @@
 # Anggota KK BIDUK
 
-<a href="/">Kembali ke Homepage</a>
+<a href="/biduk-panduan">Kembali ke Homepage</a>
 
 ## Prasyarat
 
