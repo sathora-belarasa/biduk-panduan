@@ -5,11 +5,10 @@ Panduan penggunaan BIDUK dan prosedur operasi standar bagi pengurus lingkungan m
 ## Indeks
 
 1. <a href="#istilah" alt="Istilah">Istilah</a>
-2. Skenario
-3. Prosedur
-4. Pertanyaan yang sering ditanyakan
-5. User manual BIDUK 
-6. Narahubung
+2. <a href="#skenario" alt="Skenario">Skenario</a>
+3. <a href="#prosedur" alt="Prosedur">Prosedur</a>
+4. <a href="#user-manual-biduk" alt="User Manual BIDUK">User manual BIDUK</a>
+5. <a href="#narahubung" alt="Narahubung">Narahubung</a>
 
 ## Istilah
 
@@ -18,7 +17,7 @@ Panduan penggunaan BIDUK dan prosedur operasi standar bagi pengurus lingkungan m
     * Basis Informasi Data Umat Katolik sebuah sistem daring pencatatan data umat yang dibangun Keuskupan Agung Jakarta (KAJ). 
     * Sistem ini dapat diakses menggunakan perambah (browser) yang terhubung internet. 
     * Rekomendasi perambah adalah Google Chrome versi terbaru. 
-    * Alamat akses BIDUK adalah https://biduk.or.id. 
+    * Alamat akses BIDUK adalah <a href="https://biduk.or.id" alt="https://biduk.or.id" target="_blank">https://biduk.or.id</a>. 
     * Pengurus lingkungan berinteraksi dengan BIDUK terkait data umat nonsakramental.
     * Gereja mengelola data umat sakramental. 
     
@@ -94,27 +93,25 @@ Berikut beberapa kemungkinan skenario terkait BIDUK. Tidak menutup skenario lain
 
 - Ekspor data umat lingkungan
 
-    * Tarik data umat lingkungan keluar dari BIDUK ke dalam bentuk Excel (.xlsx) untuk dikelola lebih lanjut.
+    * Tarik data umat lingkungan keluar dari BIDUK ke dalam bentuk Excel (.xlsx) untuk pengurus lingkungan kelola lebih lanjut.
 
 <a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
 
 ## Prosedur
 
-- Kartu Keluarga BIDUK
-- Anggota Keluarga BIDUK
-
-<a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
-
-## Pertanyaan yang sering ditanyakan
+- <a hre=f"/kartu-keluarga/" alt="Prosedur Kartu Keluarga BIDUK">Kartu Keluarga BIDUK</a>
+- <a href="/anggota-keluarga/" alt="Prosedur Anggota Keluarga BIDUK">Anggota Keluarga BIDUK</a>
 
 <a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
 
 ## User manual BIDUK
 
+<a href="" target="_blank" alt="User Manual BIDUK">User manual BIDUK versi 1.26.0 tanggal 18/01/2022</a>.
+
 <a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
 
 ## Narahubung
 
-data@sathora.or.id
+Kami dapat dihubungi melalui email [data@sathora.or.id](mailto:data@sathora.or.id) bagi pengurus lingkungan hadapi kendala ketika mengelola data umatnya.
 
 <a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
