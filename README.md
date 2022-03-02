@@ -8,7 +8,8 @@ Panduan penggunaan BIDUK dan prosedur operasi standar bagi pengurus lingkungan m
 2. <a href="#skenario" alt="Skenario">Skenario</a>
 3. <a href="#prosedur" alt="Prosedur">Prosedur</a>
 4. <a href="#user-manual-biduk" alt="User Manual BIDUK">User manual BIDUK</a>
-5. <a href="#narahubung" alt="Narahubung">Narahubung</a>
+5. <a href="#tips" alt="Tips">Tips</a>
+6. <a href="#narahubung" alt="Narahubung">Narahubung</a>
 
 ## Istilah
 
@@ -110,6 +111,13 @@ Berikut beberapa kemungkinan skenario terkait BIDUK. Tidak menutup skenario lain
 ## User manual BIDUK
 
 <a href="docs/BIDUK-KAJ-untuk-Admin-Paroki-v1.26.0-220118-lowres.pdf" target="_blank" alt="User Manual BIDUK">User manual BIDUK versi 1.26.0 tanggal 18/01/2022 (low resolution 72 dpi)</a>.
+
+<a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
+
+## Tips
+
+- Buka menu BIDUK sebagai tab baru pada *browser*.
+- Manfaatkan fitur Grup Kriteria Pencarian untuk mempercepat tampilan kriteria pencarian yang sering digunakan. Contoh pencarian data umat berdasarkan nama yang mengandung potongan nama.
 
 <a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
 
