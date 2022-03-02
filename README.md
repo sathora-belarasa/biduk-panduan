@@ -65,6 +65,7 @@ Berikut beberapa kemungkinan skenario terkait BIDUK. Tidak menutup skenario lain
 - Perubahan KK BIDUK
 
     * Pindah alamat domisili masih dalam lingkungan yang sama.
+    * Revisi penulisan alamat domisili.
     * Pergantian kepala keluarga.
 
 - Pemindahan KK BIDUK
@@ -101,6 +102,7 @@ Berikut beberapa kemungkinan skenario terkait BIDUK. Tidak menutup skenario lain
 
 - <a href="kartu-keluarga" alt="Prosedur KK BIDUK">KK BIDUK</a>
 - <a href="anggota-keluarga" alt="Prosedur anggota KK BIDUK">Anggota KK BIDUK</a>
+- <a href="data-vaksin" alt="Prosedur data vaksin">Data vaksin</a>
 - <a href="ekspor-data" alt="Prosedur ekspor data umat lingkungan">Ekspor data umat lingkungan</a>
 
 <a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
