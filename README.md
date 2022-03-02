@@ -1,6 +1,7 @@
 # Panduan Penggunaan BIDUK Bagi Pengurus Lingkungan Sathora
 
 Panduan penggunaan BIDUK dan prosedur operasi standar bagi pengurus lingkungan melayani data umat lingkungannya.
+Versi 220302-2244.
 
 ## Indeks
 
