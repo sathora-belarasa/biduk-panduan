@@ -107,7 +107,7 @@ Berikut beberapa kemungkinan skenario terkait BIDUK. Tidak menutup skenario lain
 
 ## User manual BIDUK
 
-<a href="" target="_blank" alt="User Manual BIDUK">User manual BIDUK versi 1.26.0 tanggal 18/01/2022</a>.
+<a href="/docs/BIDUK-KAJ-untuk-Admin-Paroki-v1.26.0-220118-lowres.pdf" target="_blank" alt="User Manual BIDUK">User manual BIDUK versi 1.26.0 tanggal 18/01/2022 (low resolution 72 dpi)</a>.
 
 <a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
 
