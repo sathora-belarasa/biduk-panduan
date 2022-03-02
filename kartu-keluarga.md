@@ -1,80 +1,20 @@
 # Kartu Keluarga BIDUK
 
-## Pengertian
+## Apa yang ingin Saya lakukan?
 
-- Setiap umat Sathora wajib tercatat pada BIDUK.
-- Setiap umat tercatat pada BIDUK bergabung dalam satu keluarga yang dikenal dengan Kartu Keluarga BIDUK (selanjutnya ditulis sebagai KK).
-- Validasi Nomor Induk Kependudukan (NIK atau Nomor KTP) dilakukan guna hindari data umat ganda.
-- Setiap KK memiliki kode yang dirujuk dengan Kode KK.
-- Format penulisan Kode KK adalah diawali dengan huruf kapital 'K' diikuti 9 angka.
-- Setiap KK memiliki satu kepala keluarga dengan jumlah anggota minimal 1 orang.
-- Jika kepala keluarga berhalangan tetap, salah satu anggota keluarga lainnya dipilih menggantikannya.
-- Anggota-anggota keluarga dalam Kode KK tidak dibatasi bagi yang beragama Katolik. 
-- KK tidak bisa dihapus setelah berhasil ditambahkan pada BIDUK; bisa dimutasi/dipindah/ditransfer ke lingkungan lain dalam Sathora, atau ke paroki lain.
+- Saya ingin [mencari KK BIDUK berdasarkan Kode KK](#cari).
+- Saya ingin [membuat KK BIDUK baru](#buat-baru).
+- Saya ingin [memindahkan KK BIDUK ke lingkungan lain Sathora](#mutasi-lingkungan).
+- Saya ingin [memindahkan KK BIDUK ke paroki lain](#mutasi-paroki).
+- Saya ingin [menerima KK BIDUK dari lingkungan lain Sathora](#klaim-mutasi-lingkungan).
+- Saya ingin [menerima KK BIDUK dari paroki lain](#klaim-mutasi-paroki).
+- Saya ingin [mengubah alamat KK BIDUK](#ubah-alamat).
+- Saya ingin [mengganti kepala keluarga KK BIDUK](#ubah-kepala).
+- Saya ingin [mengubah data perkawinan KK BIDUK](#ubah-kawin).
+- Saya ingin [mencetak KK BIDUK](#cetak).
+- Saya ingin [melihat riwayat KK BIDUK](#lihat-riwayat).
 
-## Kolom
-
-Berikut kolom wajib diisi ketika penambahan KK pada proses validasi:
-
-- NIK
-- Nama
-- Tempat lahir
-- Tanggal lahir
-
-Berikut rekomendasi kolom yang diisi ketika penambahan KK setelah validasi berhasil:
-
-- Keuskupan 
-
-    Hanya ada pilihan Keuskupan Agung Jakarta.
-    
-- Paroki
-    
-    Hanya ada pilihan Bojong Indah.
-
-- Wilayah
-    
-    Hanya ada pilihan wilayah sesuai konfigurasi username.
-
-- Lingkungan
-    
-    Hanya ada pilihan lingkungan sesuai konfigurasi username.
-
-- Alamat lengkap
-
-    Saran penulisannya cukup nama jalan, nomor blok, dan nomor rumah.
-    Nama komplek jika diperlukan sekali. 
-    Tanpa nama kota, kode pos, RT/RW.
-    Sesingkat mungkin tapi bisa ditemukan.
-
-- Kecamatan
-- Kelurahan
-- RT
-
-    BIDUK tidak mewajibkan tapi sebaiknya diisi.
-
-- RW
-
-    BIDUK tidak mewajibkan tapi sebaiknya diisi.
-
-Selanjutnya, penambahan anggota-anggota keluarga.
-
-## Skenario 
-
-Berikut beberapa kemungkinan skenario terkait Kartu Keluarga BIDUK (selanjutnya ditulis KK saja). Tidak menutup skenario lain yang belum tertulis di bawah ini:
-
-### Penambahan KK
-
-- Umat belum pernah tercatat pada BIDUK baik di Sathora maupun paroki lain.
-- Anggota keluarga yang memisahkan diri dari KK tempat yang bersangkutan sudah tercatat.
-
-### Pemindahan KK
-
-- Sekeluarga pindah keluar domisili ke lingkungan baru dalam Sathora, atau ke luar Sathora.
-- Sekeluarga pindah masuk domisi ke lingkungan.
-
-## Prosedur Standar
-
-### Penambahan KK
+### Cari
 
 1. Umat tanpa KK menghubungi pengurus lingkungan tempat umat tinggal. Minimal umat telah menetap selama 6 bulan.
 2. Pengurus lingkungan mencetak formulir kosong sejumlah anggota keluarga umat yang bersangkutan.
@@ -84,6 +24,16 @@ Berikut beberapa kemungkinan skenario terkait Kartu Keluarga BIDUK (selanjutnya 
 6. Jika NIK kepala keluarga, anggota-anggota keluarga ditemukan pada BIDUK maka proses penambahan KK dibatalkan dan diganti dengan proses mutasi (pemindahan KK).
 7. Setelah penambahan atau pemindahan KK berhasil, cetak KK sebagai bukti lalu diserahkan kepada umat yang bersangkutan.
 8. Formulir yang telah diisi umat bersama semua lampiran diserahkan kepada sekretariat gereja untuk diarsip.
+
+<a href="#">Kembali ke atas</a>
+
+### Buat Baru
+
+1.
+2.
+3.
+
+<a href="#">Kembali ke atas</a>
 
 ### Pemindahan KK Keluar
 
