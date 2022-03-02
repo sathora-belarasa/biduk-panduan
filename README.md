@@ -99,8 +99,9 @@ Berikut beberapa kemungkinan skenario terkait BIDUK. Tidak menutup skenario lain
 
 ## Prosedur
 
-- <a href="kartu-keluarga" alt="Prosedur Kartu Keluarga BIDUK">Kartu Keluarga BIDUK</a>
-- <a href="anggota-keluarga" alt="Prosedur Anggota Keluarga BIDUK">Anggota Keluarga BIDUK</a>
+- <a href="kartu-keluarga" alt="Prosedur KK BIDUK">KK BIDUK</a>
+- <a href="anggota-keluarga" alt="Prosedur anggota KK BIDUK">Anggota KK BIDUK</a>
+- <a href="ekspor-data" alt="Prosedur ekspor data umat lingkungan">Ekspor data umat lingkungan</a>
 
 <a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
 
