@@ -1,6 +1,6 @@
 # Kartu Keluarga BIDUK
 
-<a href="README">Kembali ke Homepage</a>
+<a href="/">Kembali ke Homepage</a>
 
 ## Prasyarat
 
