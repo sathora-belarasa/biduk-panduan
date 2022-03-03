@@ -2,7 +2,7 @@
 
 Panduan penggunaan BIDUK dan prosedur operasi standar bagi pengurus lingkungan melayani data umat lingkungannya.
 
-Versi 220302-2244-DRAFT. Lihat <a href="#lihat-riwayat">Riwayat perubahan</a>.
+Versi 220302-2244-DRAFT. Lihat <a href="#riwayat-perubahan">riwayat perubahan</a>.
 
 ## Indeks
 
