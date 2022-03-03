@@ -26,6 +26,9 @@
 - (A13) Saya ingin [menerima anggota KK BIDUK dari lingkungan lain sewilayah dalam Sathora](#a13-klaim-mutasi-lingkungan).
 - (A14) Saya ingin [menerima anggota KK BIDUK dari lingkungan lain beda wilayah dalam Sathora](#a14-klaim-mutasi).
 - (A14) Saya ingin [menerima anggota KK BIDUK dari paroki lain](#a14-klaim-mutasi).
+- (A15) Saya ingin [mencatat sakramen baptis dan komper anggota KK BIDUK](#a15-baptis).
+- (A16) Saya ingin [mencatat sakramen baptis dan komper anggota KK BIDUK](#a16-komuni-pertama).
+- (A17) Saya ingin [mencatat sakramen krisma anggota KK BIDUK](#a17-krisma).
 
 ### A01 Cari
 
@@ -230,6 +233,45 @@
 2. Petugas sekretariat gereja yang akan mengalokasikan anggota KK BIDUK ke KK BIDUK baru atau lama di lingkungan.
 3. Setelah proses klaim berhasil, petugas sekretariat gereja info pengurus lingkungan atas tambahan anggota KK BIDUK.
 4. Pengurus lingkungan dapat cetak KK BIDUK sebagai bukti klaim berhasil kepada umat pemohon.
+
+<a href="#">Kembali ke atas</a>
+
+### A15 Baptis
+
+1. Masuk menu Pencarian.
+2. Pilih menu Data Umat.
+3. Tambah kriteria untuk mempersempit pencarian spesifik nama individu umat yang datanya ingin diperbarui.
+4. Tekan tombol Cari.
+5. Masuk ke detail Anggota KK BIDUK dengan tekan baris data yang ingin ditambahkan/diperbarui data sakramen baptis.
+6. Tekan menu samping Baptis.
+7. Masukkan data baptis umat pemohon.
+8. Tekan tombol Simpan.
+
+<a href="#">Kembali ke atas</a>
+
+### A16 Komuni Pertama
+
+1. Masuk menu Pencarian.
+2. Pilih menu Data Umat.
+3. Tambah kriteria untuk mempersempit pencarian spesifik nama individu umat yang datanya ingin diperbarui.
+4. Tekan tombol Cari.
+5. Masuk ke detail Anggota KK BIDUK dengan tekan baris data yang ingin ditambahkan/diperbarui data komuni pertama.
+6. Tekan menu samping Komuni Pertama.
+7. Masukkan data komuni pertama umat pemohon.
+8. Tekan tombol Simpan.
+
+<a href="#">Kembali ke atas</a>
+
+### A17 Krisma
+
+1. Masuk menu Pencarian.
+2. Pilih menu Data Umat.
+3. Tambah kriteria untuk mempersempit pencarian spesifik nama individu umat yang datanya ingin diperbarui.
+4. Tekan tombol Cari.
+5. Masuk ke detail Anggota KK BIDUK dengan tekan baris data yang ingin ditambahkan/diperbarui data sakramen krisma.
+6. Tekan menu samping Penguatan.
+7. Masukkan data krisma umat pemohon.
+8. Tekan tombol Simpan.
 
 <a href="#">Kembali ke atas</a>
 
