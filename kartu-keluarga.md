@@ -90,7 +90,7 @@
 2. Pilih menu Data Kartu Keluarga.
 3. Tekan tombol Cari.
 4. Pilih salah satu KK BIDUK pada hasil pencarian.
-5. Pada Detail Kartu Keluarga, tekan menu samping Perkawinan KK.
+5. Pada detail KK BIDUK, tekan menu samping Perkawinan KK.
 6. Masukkan minimal kolom yang wajib diisi.
 7. Tekan tombol Simpan.
 
