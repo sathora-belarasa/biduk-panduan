@@ -26,6 +26,7 @@
 
 ### Cari
 
+(K-01)
 1. Masuk ke menu Pencarian.
 2. Pilih menu Data Kartu Keluarga.
 3. Tambah kriteria untuk mempersempit pencarian lebih spesifik. Contoh cari KK BIDUK dengan alamat yang mengandung nama jalan tertentu.
@@ -35,8 +36,9 @@
 
 <a href="#">Kembali ke atas</a>
 
-### Buat
+### Buat Baru
 
+(K-02)
 1. Umat menghubungi pengurus lingkungan. Rekomendasi umat telah menetap minimal selama 6 bulan.
 2. Pengurus lingkunga cetak blangko bagi kepala keluarga dan anggota-anggota keluarganya.
 3. Umat mengisi semua blangko dan melampirkan fotokopi KTP, surat baptis (jika sudah dibaptis), dan surat nikah (jika sudah menikah).
@@ -128,6 +130,7 @@
 
 ### Mutasi
 
+(K-03) (K-04) (K-05)
 1. Umat mengajukan proses mutasi keluar lingkungan masih sewilayah di Sathora dengan infokan Kode KK.
 2. Alternatif, umat mengajukan proses mutasi melalui pengurus lingkungan baru atau petugas sekretariat gereja paroki baru.
 3. Berdasarkan Kode KK, pengurus lingkungan mencari KK BIDUK.
@@ -153,6 +156,7 @@
 
 ### Klaim Mutasi Lingkungan
 
+(K-06)
 1. Umat telah menyelesaikan proses mutasi keluar di lingkungan lama.
 2. Umat mengajukan proses mutasi masuk di lingkungan baru dengan infokan Kode KK.
 3. Berdasarkan Kode KK, pengurus lingkungan mencari KK BIDUK.
@@ -170,6 +174,7 @@
 
 ### Klaim Mutasi
 
+(K-07) (K-08)
 1. Bagi umat yang melakukan mutasi wilayah dan mutasi paroki, mereka hanya bisa di-klaim petugas sekretariat gereja.
 2. Petugas sekretariat gereja yang akan mengalokasikan KK BIDUK ke lingkungan.
 3. Setelah proses klaim berhasil, petugas sekretariat gereja info pengurus lingkungan atas tambahan KK BIDUK.
