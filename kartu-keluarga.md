@@ -21,6 +21,7 @@
 - Saya ingin [mengubah data perkawinan KK BIDUK](#ubah-kawin).
 - Saya ingin [mencetak KK BIDUK](#cetak).
 - Saya ingin [melihat riwayat KK BIDUK](#lihat-riwayat).
+- Saya ingin [menghapus KK BIDUK](#hapus).
 
 ### Cari
 
@@ -163,6 +164,13 @@
 1. Bagi umat yang melakukan mutasi wilayah dan mutasi paroki, mereka hanya bisa di-klaim sekretariat gereja.
 2. Petugas sekretariat gereja yang akan mengalokasikan umat baru ke lingkungan.
 3. Setelah proses klaim berhasil, petugas sekretariat gereja info pengurus lingkungan atas tambahan umat baru.
+
+<a href="#">Kembali ke atas</a>
+
+### Hapus
+
+1. Setiap umat hanya bergabung ke dalam satu KK BIDUK unik. Dilarang data duplikat bagi individu sama.
+2. Pengurus lingkungan menghubungi petugas sekretariat gereja dengan info minimal 2 Kode KK: satu yang valid, lainnya yang tidak valid dan ingin dihapus.
 
 <a href="#">Kembali ke atas</a>
 
