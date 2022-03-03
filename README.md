@@ -36,7 +36,7 @@ Versi 220302-2244.
     * Setiap anggota keluarga pada KK BIDUK yang sama memiliki Kode KK sama.
     * Jika kepala keluarga berhalangan tetap, salah satu anggota keluarga lainnya dipilih menggantikannya.
     * KK BIDUK dapat dicetak (hardcopy) jika umat memerlukannya.
-    * KK BIDUK tidak dapat dihapus setelah berhasil dibikin.
+    * KK BIDUK dapat dihapus oleh petugas sekretariat gereja. Contoh pada skenario KK BIDUK ganda ditemukan.
 
 - Nomor Anggota
 
