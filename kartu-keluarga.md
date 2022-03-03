@@ -104,8 +104,16 @@
 2. Pilih menu Form Kartu Keluarga.
 3. Tekan tombol View untuk menampilkan semua KK BIDUK.
 4. Pilih minimal satu KK BIDUK untuk dicetak.
-5. Tekan tombol Cetak, lalu pilih Cetak KK atau Cetak Anggota.
-6. *Browser* akan mengunduh file .pdf atau .zip.
+5. Tekan tombol Cetak, lalu pilih Cetak KK.
+6. Unduhan berupa file .pdf.
+
+### Cetak Alternatif-1
+
+1. Masuk ke menu Pencarian.
+2. Pilih menu Data Kartu Keluarga.
+3. Tekan tombol Cari.
+4. Pilih salah satu KK BIDUK pada hasil pencarian.
+5. Pada Form Kartu Keluarga Detail, tekan menu samping Cetak KK.
 
 <a href="#">Kembali ke atas</a>
 
@@ -115,7 +123,7 @@
 2. Pilih Data Kartu Keluarga.
 3. Tekan tombol Cari.
 4. Pilih salah satu KK BIDUK pada hasil pencarian.
-5. Pada Detail Kartu Keluarga, tekan menu samping History KK.
+5. Pada Form Kartu Keluarga Detail, tekan menu samping History KK.
 
 <a href="#">Kembali ke atas</a>
 
