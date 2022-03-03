@@ -9,25 +9,25 @@
 
 ## Apa yang ingin Saya lakukan?
 
-- Saya ingin [mencari data individu umat lingkungan](#cari).
-- Saya ingin [menambah anggota ke dalam KK BIDUK](#tambah).
-- Saya ingin [mengubah data individu umat lingkungan](#ubah).
-- Saya ingin [mengubah agama anggota KK BIDUK](#mutasi-agama).
-- Saya ingin [mengubah status almarhum anggota KK BIDUK](#mutasi-almarhum).
-- Saya ingin [menghapus anggota KK BIDUK](#hapus).
-- Saya ingin [mencetak anggota KK BIDUK](#cetak).
-- Saya ingin [melihat riwayat anggota KK BIDUK](#lihat-riwayat).
-- Saya ingin [mencatat orang tua anggota KK BIDUK](#orang-tua).
-- Saya ingin [mencatat bidang kepengurusan anggota KK BIDUK terlibat](#kepengurusan).
-- Saya ingin [memindahkan anggota KK BIDUK ke lingkungan yang sama](#mutasi-kk).
-- Saya ingin [memindahkan anggota KK BIDUK ke lingkungan lain sewilayah dalam Sathora](#mutasi).
-- Saya ingin [memindahkan anggota KK BIDUK ke lingkungan lain beda wilayah dalam Sathora](#mutasi).
-- Saya ingin [memindahkan anggtoa KK BIDUK ke paroki lain](#mutasi).
-- Saya ingin [menerima anggota KK BIDUK dari lingkungan lain sewilayah dalam Sathora](#klaim-mutasi-lingkungan).
-- Saya ingin [menerima anggota KK BIDUK dari lingkungan lain beda wilayah dalam Sathora](#klaim-mutasi).
-- Saya ingin [menerima anggota KK BIDUK dari paroki lain](#klaim-mutasi).
+- (A01) Saya ingin [mencari data individu umat lingkungan](#a01-cari).
+- (A02) Saya ingin [menambah anggota ke dalam KK BIDUK](#a02-buat-baru).
+- (A03) Saya ingin [mengubah data individu umat lingkungan](#a03-ubah).
+- (A04) Saya ingin [mengubah agama anggota KK BIDUK](#a04-mutasi-agama).
+- (A05) Saya ingin [mengubah status almarhum anggota KK BIDUK](#a05-mutasi-almarhum).
+- (A06) Saya ingin [menghapus anggota KK BIDUK](#a06-hapus).
+- (A07) Saya ingin [mencetak anggota KK BIDUK](#a07-cetak).
+- (A08) Saya ingin [melihat riwayat anggota KK BIDUK](#a08-lihat-riwayat).
+- (A09) Saya ingin [mencatat orang tua anggota KK BIDUK](#a09-orang-tua).
+- (A10) Saya ingin [mencatat bidang kepengurusan anggota KK BIDUK terlibat](#a10-kepengurusan).
+- (A11) Saya ingin [memindahkan anggota KK BIDUK ke lingkungan yang sama](#a11-mutasi-kk).
+- (A12) Saya ingin [memindahkan anggota KK BIDUK ke lingkungan lain sewilayah dalam Sathora](#a12-mutasi).
+- (A12) Saya ingin [memindahkan anggota KK BIDUK ke lingkungan lain beda wilayah dalam Sathora](#a12-mutasi).
+- (A12) Saya ingin [memindahkan anggtoa KK BIDUK ke paroki lain](#a12-mutasi).
+- (A13) Saya ingin [menerima anggota KK BIDUK dari lingkungan lain sewilayah dalam Sathora](#a13-klaim-mutasi-lingkungan).
+- (A14) Saya ingin [menerima anggota KK BIDUK dari lingkungan lain beda wilayah dalam Sathora](#a14-klaim-mutasi).
+- (A14) Saya ingin [menerima anggota KK BIDUK dari paroki lain](#a14-klaim-mutasi).
 
-### Cari
+### A01 Cari
 
 1. Masuk menu Pencarian.
 2. Pilih menu Data Umat.
@@ -38,7 +38,7 @@
 
 <a href="#">Kembali ke atas</a>
 
-### Tambah
+### A02 Buat Baru
 
 1. Umat mengajukan penambahan anggota keluarga kepada pengurus lingkungan.
 2. Pengurus lingkunga cetak blangko calon anggota KK BIDUK.
@@ -55,7 +55,7 @@
 
 <a href="#">Kembali ke atas</a>
 
-### Ubah
+### A03 Ubah
 
 1. Pengurus lingkungan menerima pengajuan perubahan data anggota KK BIDUK disertai Kode KK.
 2. Masuk menu Pencarian.
@@ -70,7 +70,7 @@
 
 <a href="#">Kembali ke atas</a>
 
-### Mutasi Agama
+### A04 Mutasi Agama
 
 1. Pengurus lingkungan menerima pengajuan perubahan data anggota KK BIDUK disertai Kode KK.
 2. Masuk menu Pencarian.
@@ -86,7 +86,7 @@
 
 <a href="#">Kembali ke atas</a>
 
-### Mutasi Almarhum
+### A05 Mutasi Almarhum
 
 1. Pengurus lingkungan menerima pengajuan perubahan data anggota KK BIDUK disertai Kode KK.
 2. Masuk menu Pencarian.
@@ -102,13 +102,13 @@
 
 <a href="#">Kembali ke atas</a>
 
-### Hapus
+### A06 Hapus
 
 1. Petugas lingkungan menghubungi petugas sekretariat gereja guna menghapus anggota KK BIDUK.
 
 <a href="#">Kembali ke atas</a>
 
-### Cetak
+### A07 Cetak
 
 1. Masuk menu Pencarian.
 2. Pilih menu Data Umat.
@@ -120,7 +120,7 @@
 
 <a href="#">Kembali ke atas</a>
 
-### Lihat Riwayat
+### A08 Lihat Riwayat
 
 1. Masuk menu Pencarian.
 2. Pilih menu Data Umat.
@@ -131,7 +131,7 @@
 
 <a href="#">Kembali ke atas</a>
 
-### Orang tua
+### A09 Orang tua
 
 1. Masuk menu Pencarian.
 2. Pilih menu Data Umat.
@@ -144,7 +144,7 @@
 
 <a href="#">Kembali ke atas</a>
 
-### Kepengurusan
+### A10 Kepengurusan
 
 1. Masuk menu Pencarian.
 2. Pilih menu Data Umat.
@@ -157,7 +157,7 @@
 
 <a href="#">Kembali ke atas</a>
 
-### Mutasi KK
+### A11 Mutasi KK
 
 1. Umat mengajukan proses mutasi namun masih dalam lingkungan yang sama dengan infokan Kode KK dan nama anggota yang hendak dimutasi.
 2. Contoh skenario adalah setelah menikah anak membentuk KK BIDUK baru terpisah dari KK BIDUK orang tuanya; mereka semua masih berdomisili di lingkungan yang sama.
@@ -179,7 +179,7 @@
 
 <a href="#">Kembali ke atas</a>
 
-### Mutasi
+### A12 Mutasi
 
 1. Umat mengajukan proses mutasi keluar lingkungan masih sewilayah di Sathora dengan infokan Kode KK dan nama anggota yang hendak dimutasi.
 2. Alternatif, umat mengajukan proses mutasi melalui pengurus lingkungan baru atau petugas sekretariat gereja paroki baru.
@@ -204,7 +204,7 @@
 
 <a href="#">Kembali ke atas</a>
 
-### Klaim Mutasi Lingkungan
+### A13 Klaim Mutasi Lingkungan
 
 1. Umat telah menyelesaikan proses mutasi keluar di lingkungan lama.
 2. Umat mengajukan proses mutasi masuk di lingkungan baru dengan infokan Kode KK.
@@ -224,7 +224,7 @@
 
 <a href="#">Kembali ke atas</a>
 
-### Klaim Mutasi
+### A14 Klaim Mutasi
 
 1. Bagi umat yang melakukan mutasi wilayah dan mutasi paroki, mereka hanya bisa di-klaim petugas sekretariat gereja.
 2. Petugas sekretariat gereja yang akan mengalokasikan anggota KK BIDUK ke KK BIDUK baru atau lama di lingkungan.
