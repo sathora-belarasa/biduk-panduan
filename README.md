@@ -2,7 +2,7 @@
 
 Panduan penggunaan BIDUK dan prosedur operasi standar bagi pengurus lingkungan melayani data umat lingkungannya.
 
-Versi 220303-1807-DRAFT. Lihat <a href="#riwayat-perubahan">riwayat perubahan</a>.
+Versi 220303-2200-DRAFT. Lihat <a href="#riwayat-perubahan">riwayat perubahan</a>.
 
 ## Indeks
 
@@ -21,7 +21,7 @@ Versi 220303-1807-DRAFT. Lihat <a href="#riwayat-perubahan">riwayat perubahan</a
     * Sistem ini dapat diakses menggunakan perambah (browser) yang terhubung internet. 
     * Rekomendasi perambah adalah Google Chrome versi terbaru. 
     * Alamat akses BIDUK adalah <a href="https://biduk.or.id" alt="https://biduk.or.id" target="_blank">https://biduk.or.id</a>. 
-    * Pengurus lingkungan berinteraksi dengan BIDUK terkait data umat nonsakramental.
+    * Pengurus lingkungan berinteraksi dengan BIDUK terkait data umat nonsakramental dan sakramental terbatas (baptis & komper, krisma, perkawinan). Sakramental terbatas di sini maksudnya sakramen yang diterima umat sebelum sistem BIDUK SAKRAMEN mulai digunakan. 
     * Petugas sekretariat gereja mengelola data umat sakramental.
     * Petugas sekretariat gereja klaim mutasi umat antarlingkungan beda wilayah dalam Sathora, dan antarparoki.
     
