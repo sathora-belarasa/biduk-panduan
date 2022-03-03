@@ -48,6 +48,7 @@ Versi 220302-2244.
     * Anggota keluarga bisa keluar dari KK BIDUK-nya pindah ke lingkungan atau paroki lain. Bisa bergabung dengan KK BIDUK yang sudah ada di tempat baru atau bikin KK BIDUK baru.
     * Anggota keluarga bisa masuk bergabung KK BIDUK yang sudah ada.
     * Anggota keluarga yang berhalangan tetap perlu dicatat tanggal meninggalnya supaya namanya tidak muncul pada sistem lain seperti Web Bela Rasa. Pun tidak tercetak pada KK BIDUK.
+    * Nomor Anggota tidak tercetak pada KK BIDUK (hardcopy). Namun, tersedia pada hasil cetak anggota (hardcopy) pojok kanan atas.
  
 - Nomor BIDUK
 
