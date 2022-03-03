@@ -50,6 +50,7 @@ Versi 220302-2244-DRAFT. Lihat <a href="#riwayat-perubahan">riwayat perubahan</a
     * Anggota keluarga bisa masuk bergabung KK BIDUK yang sudah ada.
     * Anggota keluarga yang berhalangan tetap perlu dicatat tanggal meninggalnya supaya namanya tidak muncul pada sistem lain seperti Web Bela Rasa. Pun tidak tercetak pada KK BIDUK.
     * Nomor Anggota tidak tercetak pada KK BIDUK (hardcopy). Namun, tersedia pada hasil cetak anggota (hardcopy) pojok kanan atas.
+    * Anggota KK BIDUK dapat dihapus oleh petugas sekretariat gereja. Contoh pada skenario anggota KK BIDUK ganda ditemukan.
  
 - Nomor BIDUK
 
