@@ -2,7 +2,7 @@
 
 Panduan penggunaan BIDUK dan prosedur operasi standar bagi pengurus lingkungan melayani data umat lingkungannya.
 
-Versi 220302-2244.
+Versi 220302-2244-DRAFT. Lihat <a href="#lihat-riwayat">Riwayat perubahan</a>.
 
 ## Indeks
 
@@ -22,7 +22,8 @@ Versi 220302-2244.
     * Rekomendasi perambah adalah Google Chrome versi terbaru. 
     * Alamat akses BIDUK adalah <a href="https://biduk.or.id" alt="https://biduk.or.id" target="_blank">https://biduk.or.id</a>. 
     * Pengurus lingkungan berinteraksi dengan BIDUK terkait data umat nonsakramental.
-    * Gereja mengelola data umat sakramental. 
+    * Petugas sekretariat gereja mengelola data umat sakramental.
+    * Petugas sekretariat gereja klaim mutasi umat antarlingkungan beda wilayah dalam Sathora, dan antarparoki.
     
 - Kartu Keluarga BIDUK
 
@@ -129,3 +130,7 @@ Berikut beberapa kemungkinan skenario terkait BIDUK. Tidak menutup skenario lain
 Kami dapat dihubungi melalui email [data@sathora.or.id](mailto:data@sathora.or.id) bagi pengurus lingkungan hadapi kendala ketika mengelola data umatnya.
 
 <a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
+
+## Riwayat Perubahan
+
+1. 10/03/2022 Versi final dipublikasikan.
