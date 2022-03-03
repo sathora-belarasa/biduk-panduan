@@ -8,10 +8,10 @@
 
 ## Apa yang ingin Saya lakukan?
 
-- Saya ingin [mengubduh KK BIDUK umat lingkungan](#unduh-kk).
-- Saya ingin [mengunduh Anggota KK BIDUK umat lingkungan](#unduh-anggota).
+- (E01) Saya ingin [mengubduh KK BIDUK umat lingkungan](#e01-unduh-kk).
+- (E02) Saya ingin [mengunduh Anggota KK BIDUK umat lingkungan](#e02-unduh-anggota).
 
-### Unduh KK
+### E01 Unduh KK
 
 1. Masuk menu Pencarian.
 2. Pilih menu Data Kartu Keluarga.
@@ -23,7 +23,7 @@
 
 <a href="#">Kembali ke atas</a>
 
-### Unduh Anggota
+### E02 Unduh Anggota
 
 1. Masuk menu Pencarian.
 2. Pilih menu Data Umat.
