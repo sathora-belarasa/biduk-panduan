@@ -133,6 +133,6 @@ Kami dapat dihubungi melalui email [data@sathora.or.id](mailto:data@sathora.or.i
 
 ## Riwayat Perubahan
 
-1. 10/03/2022 Versi final dipublikasikan.
+1. 10/03/2022 Versi final bagi TFT.
 
 <a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
