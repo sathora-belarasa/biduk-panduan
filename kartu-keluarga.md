@@ -9,24 +9,23 @@
 
 ## Apa yang ingin Saya lakukan?
 
-- (K-01) Saya ingin [mencari KK BIDUK berdasarkan Kode KK](#cari).
-- (K-02) Saya ingin [membuat KK BIDUK baru](#buat-baru).
-- (K-03) Saya ingin [memindahkan KK BIDUK ke lingkungan lain sewilayah dalam Sathora](#mutasi).
-- (K-04) Saya ingin [memindahkan KK BIDUK ke lingkungan lain beda wilayah dalam Sathora](#mutasi).
-- (K-05) Saya ingin [memindahkan KK BIDUK ke paroki lain](#mutasi).
-- (K-06) Saya ingin [menerima KK BIDUK dari lingkungan lain sewilayah dalam Sathora](#klaim-mutasi-lingkungan).
-- (K-07) Saya ingin [menerima KK BIDUK dari lingkungan lain beda wilayah dalam Sathora](#klaim-mutasi).
-- (K-08) Saya ingin [menerima KK BIDUK dari paroki lain](#klaim-mutasi).
-- (K-09) Saya ingin [mengubah alamat KK BIDUK](#ubah-alamat).
-- (K-10) Saya ingin [mengganti kepala keluarga KK BIDUK](#ubah-kepala).
-- (K-11) Saya ingin [mengubah data perkawinan KK BIDUK](#ubah-kawin).
-- (K-12) Saya ingin [mencetak KK BIDUK](#cetak).
-- (K-13) Saya ingin [melihat riwayat KK BIDUK](#lihat-riwayat).
-- (K-14) Saya ingin [menghapus KK BIDUK](#hapus).
+- (K01) Saya ingin [mencari KK BIDUK berdasarkan Kode KK](#k01-cari).
+- (K02) Saya ingin [membuat KK BIDUK baru](#k02-buat-baru).
+- (K03) Saya ingin [memindahkan KK BIDUK ke lingkungan lain sewilayah dalam Sathora](#k03-mutasi).
+- (K03) Saya ingin [memindahkan KK BIDUK ke lingkungan lain beda wilayah dalam Sathora](#k03-mutasi).
+- (K03) Saya ingin [memindahkan KK BIDUK ke paroki lain](#k03-mutasi).
+- (K04) Saya ingin [menerima KK BIDUK dari lingkungan lain sewilayah dalam Sathora](#k04-klaim-mutasi-lingkungan).
+- (K05) Saya ingin [menerima KK BIDUK dari lingkungan lain beda wilayah dalam Sathora](#k05-klaim-mutasi).
+- (K05) Saya ingin [menerima KK BIDUK dari paroki lain](#k05-klaim-mutasi).
+- (K06) Saya ingin [mengubah alamat KK BIDUK](#k06-ubah-alamat).
+- (K07) Saya ingin [mengganti kepala keluarga KK BIDUK](#k07-ubah-kepala).
+- (K08) Saya ingin [mengubah data perkawinan KK BIDUK](#k08-ubah-kawin).
+- (K09) Saya ingin [mencetak KK BIDUK](#k09-cetak).
+- (K10) Saya ingin [melihat riwayat KK BIDUK](#k10-lihat-riwayat).
+- (K11) Saya ingin [menghapus KK BIDUK](#k11-hapus).
 
-### Cari
+### K01 Cari
 
-(K-01)
 1. Masuk ke menu Pencarian.
 2. Pilih menu Data Kartu Keluarga.
 3. Tambah kriteria untuk mempersempit pencarian lebih spesifik. Contoh cari KK BIDUK dengan alamat yang mengandung nama jalan tertentu.
@@ -36,9 +35,8 @@
 
 <a href="#">Kembali ke atas</a>
 
-### Buat Baru
+### K02 Buat Baru
 
-(K-02)
 1. Umat menghubungi pengurus lingkungan. Rekomendasi umat telah menetap minimal selama 6 bulan.
 2. Pengurus lingkunga cetak blangko bagi kepala keluarga dan anggota-anggota keluarganya.
 3. Umat mengisi semua blangko dan melampirkan fotokopi KTP, surat baptis (jika sudah dibaptis), dan surat nikah (jika sudah menikah).
@@ -64,9 +62,8 @@
 
 <a href="#">Kembali ke atas</a>
 
-### Ubah Alamat
+### K06 Ubah Alamat
 
-(K-09)
 1. Pengurus lingkungan bisa ubah alamat KK BIDUK jika terjadi kekeliruan pencatatan atau umat berpindah domisili dalam lingkungan yang sama.
 2. Masuk ke menu Pencarian.
 3. Pilih menu Data Kartu Keluarga.
@@ -78,9 +75,8 @@
 
 <a href="#">Kembali ke atas</a>
 
-### Ubah Kepala
+### K07 Ubah Kepala
 
-(K-10)
 1. Kepala keluarga adalah sebuah pilihan hubungan keluarga.
 2. Pilihan hubungan keluarga terdapat pada Detail Anggota Keluarga.
 3. BIDUK akan meminta kepala keluarga baru ketika pilihan kepala keluarga diganti menjadi yang lain seperti suami, istri.
@@ -88,9 +84,8 @@
 
 <a href="#">Kembali ke atas</a>
 
-### Ubah Kawin
+### K08 Ubah Kawin
 
-(K-11)
 1. Masuk ke menu Pencarian.
 2. Pilih menu Data Kartu Keluarga.
 3. Tekan tombol Cari.
@@ -101,9 +96,8 @@
 
 <a href="#">Kembali ke atas</a>
 
-### Cetak
+### K09 Cetak
 
-(K-12)
 1. Masuk ke menu Form.
 2. Pilih menu Form Kartu Keluarga.
 3. Tekan tombol View untuk menampilkan semua KK BIDUK.
@@ -122,9 +116,8 @@
 
 <a href="#">Kembali ke atas</a>
 
-### Lihat Riwayat
+### K10 Lihat Riwayat
 
-(K-13)
 1. Masuk ke menu Pencarian.
 2. Pilih Data Kartu Keluarga.
 3. Tekan tombol Cari.
@@ -133,9 +126,8 @@
 
 <a href="#">Kembali ke atas</a>
 
-### Mutasi
+### K03 Mutasi
 
-(K-03) (K-04) (K-05)
 1. Umat mengajukan proses mutasi keluar lingkungan masih sewilayah di Sathora dengan infokan Kode KK.
 2. Alternatif, umat mengajukan proses mutasi melalui pengurus lingkungan baru atau petugas sekretariat gereja paroki baru.
 3. Berdasarkan Kode KK, pengurus lingkungan mencari KK BIDUK.
@@ -159,9 +151,8 @@
 
 <a href="#">Kembali ke atas</a>
 
-### Klaim Mutasi Lingkungan
+### K04 Klaim Mutasi Lingkungan
 
-(K-06)
 1. Umat telah menyelesaikan proses mutasi keluar di lingkungan lama.
 2. Umat mengajukan proses mutasi masuk di lingkungan baru dengan infokan Kode KK.
 3. Berdasarkan Kode KK, pengurus lingkungan mencari KK BIDUK.
@@ -177,9 +168,8 @@
 
 <a href="#">Kembali ke atas</a>
 
-### Klaim Mutasi
+### K05 Klaim Mutasi
 
-(K-07) (K-08)
 1. Bagi umat yang melakukan mutasi wilayah dan mutasi paroki, mereka hanya bisa di-klaim petugas sekretariat gereja.
 2. Petugas sekretariat gereja yang akan mengalokasikan KK BIDUK ke lingkungan.
 3. Setelah proses klaim berhasil, petugas sekretariat gereja info pengurus lingkungan atas tambahan KK BIDUK.
@@ -187,9 +177,8 @@
 
 <a href="#">Kembali ke atas</a>
 
-### Hapus
+### K11 Hapus
 
-(K-14)
 1. Setiap umat hanya bergabung ke dalam satu KK BIDUK unik. Dilarang data duplikat bagi individu sama.
 2. Pengurus lingkungan menghubungi petugas sekretariat gereja dengan info minimal 2 Kode KK: satu yang valid, lainnya yang tidak valid dan ingin dihapus.
 
