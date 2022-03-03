@@ -5,6 +5,7 @@
 ## Prasyarat
 
 1. Pastikan *user* berhasil masuk ke dalam BIDUK dan melihat logo BIDUK sebelum melakukan Apa-yang-ingin-Saya-lakukan.
+2. Blangko anggota KK BIDUK (termasuk kepala keluarga) versi terbaru tersedia pada menu Dokumen Pendukung.
 
 ## Apa yang ingin Saya lakukan?
 
@@ -30,37 +31,34 @@
 3. Tambah kriteria untuk mempersempit pencarian lebih spesifik. Contoh cari KK BIDUK dengan alamat yang mengandung nama jalan tertentu.
 4. Jika kriteria sering digunakan, simpan sebagai Grup Kriteria Pencarian.
 5. Tekan tombol Cari yang akan menampilkan hasil pencarian yang memenuhi kriteria pencarian.
-6. Untuk lihat detik KK BIDUK, tekan pada baris dengan data yang dituju.
+6. Untuk lihat detail Anggota KK BIDUK, tekan pada baris dengan data yang dituju.
 
 <a href="#">Kembali ke atas</a>
 
 ### Buat
 
 1. Umat menghubungi pengurus lingkungan. Rekomendasi umat telah menetap minimal selama 6 bulan.
-2. Masuk ke menu Dokumen.
-3. Pilih menu Dokumen Pendukung.
-4. Download blangko data kepala keluarga dan anggota keluarga versi terbaru.
-5. Cetak blangko bagi kepala keluarga dan anggota-anggota keluarganya.
-6. Umat mengisi semua blangko dan melampirkan fotokopi KTP, surat baptis (jika sudah dibaptis), dan surat nikah (jika sudah menikah).
-7. Masuk ke menu Form.
-8. Pilih menu Form Kartu Keluarga.
-9. Tekan tombol + KK Baru.
-10. Ikuti alur prosesnya yang diawali dengan validasi NIK kepala keluarga apakah sudah tercatat pada BIDUK.
+2. Pengurus lingkunga cetak blangko bagi kepala keluarga dan anggota-anggota keluarganya.
+3. Umat mengisi semua blangko dan melampirkan fotokopi KTP, surat baptis (jika sudah dibaptis), dan surat nikah (jika sudah menikah).
+4. Masuk ke menu Form.
+5. Pilih menu Form Kartu Keluarga.
+6. Tekan tombol + KK Baru.
+7. Ikuti alur prosesnya yang diawali dengan validasi NIK kepala keluarga apakah sudah tercatat pada BIDUK.
 
       Jika NIK sudah tercatat pada BIDUK, pindah ke proses mutasi KK BIDUK.
     
-11. Masukkan data domisili. 
+8. Masukkan data domisili. 
 
       Wajib: alamat, kelurahan, RT, RW.
       Penulisan alamat sebaiknya ringkas tanpa nama kota dan lainnya yang sudah tersedia terpisah.
       
-12. Masukkan data kepala keluarga dan anggota-anggotanya sesuai isian blangko.
+9. Masukkan data kepala keluarga dan anggota-anggotanya sesuai isian blangko.
 
       Ada 2 pilihan jenis data: (a) Data Baru dan (b) Data Pindahan Dari Paroki Lain Tanpa BIDUK.
       Data Pindahan menampilkan kolom tanggal keluar, asal keuskupan, asal paroki.
 
-13. Setelah pembuatan KK BIDUK berhasil, KK BIDUK dapat dicetak dan diserahkan kepada umat pemohon sebagai bukti.
-14. Pengurus lingkungan menyerahkan blangko beserta lampiran ke sekretariat gereja untuk diarsip.
+10. Setelah pembuatan KK BIDUK berhasil, KK BIDUK dapat dicetak dan diserahkan kepada umat pemohon sebagai bukti.
+11. Pengurus lingkungan menyerahkan blangko terisi beserta lampirannya ke sekretariat gereja untuk diarsip.
 
 <a href="#">Kembali ke atas</a>
 
@@ -114,6 +112,7 @@
 3. Tekan tombol Cari.
 4. Pilih salah satu KK BIDUK pada hasil pencarian.
 5. Pada Form Kartu Keluarga Detail, tekan menu samping Cetak KK.
+6. Pilih cetak ke printer atau ekspor ke file.
 
 <a href="#">Kembali ke atas</a>
 
@@ -130,23 +129,25 @@
 ### Mutasi
 
 1. Umat mengajukan proses mutasi keluar lingkungan masih sewilayah di Sathora dengan infokan Kode KK.
-2. Berdasarkan Kode KK, pengurus lingkungan mencari KK BIDUK.
-3. Masuk ke menu Pencarian.
-4. Pilih menu Data Kartu Keluarga.
-5. Tekan tombol Cari.
-6. Pilih salah satu KK BIDUK pada hasil pencarian.
-7. Pada Detail Kartu Keluarga, tekan tombol Mutasi Keluarga.
-8. Pilih jenis mutasi: 
+2. Alternatif, umat mengajukan proses mutasi melalui pengurus lingkungan baru atau petugas sekretariat gereja paroki baru.
+3. Berdasarkan Kode KK, pengurus lingkungan mencari KK BIDUK.
+4. Masuk ke menu Pencarian.
+5. Pilih menu Data Kartu Keluarga.
+6. Tambah kriteria untuk mempersempit pencarian spesifik Kode KK yang hendak dimutasi.
+7. Tekan tombol Cari.
+8. Pilih salah satu KK BIDUK pada hasil pencarian.
+9. Pada detail KK BIDUK, tekan tombol Mutasi Keluarga.
+10. Pilih jenis mutasi: 
     
       - Mutasi Lingkungan: umat pindah lingkungan sewilayah dalam Sathora.
       - Mutasi Wilayah: umat pindah lingkungan beda wilayah dalam Sathora.
       - Mutasi Paroki: umat pindah paroki.
       
-9. Jika diperlukan, isi kolom Keterangan Mutasi.
-10. Untuk memastikan, pengurus lingkungan bisa cek ke menu Pencarian > Data Mutasi Keluarga.
-11. Cari KK BIDUK dengan jenis mutasi keluar.
-12. Pengurus lingkungan info umat proses mutasi keluar berhasil.
-13. Pengurus lingkungan ingatkan umat hubungi pengurus lingkungan tujuan untuk proses mutasi masuk.
+11. Jika diperlukan, isi kolom Keterangan Mutasi.
+12. Untuk memastikan, pengurus lingkungan bisa cek ke menu Pencarian > Data Mutasi Keluarga.
+13. Cari KK BIDUK dengan jenis mutasi keluar.
+14. Pengurus lingkungan info umat proses mutasi keluar berhasil.
+15. Pengurus lingkungan ingatkan umat hubungi pengurus lingkungan tujuan untuk proses mutasi masuk.
 
 <a href="#">Kembali ke atas</a>
 
@@ -163,15 +164,16 @@
 9. Tekan tombol Berikut.
 10. Tekan tombol Edit untuk mengubah alamat domisili.
 11. Tekan tombol Simpan untuk konfirmasi penerimaan.
-12. Jika diperlukan, pengurus lingkungan cetak KK sebagai bukti kepada umat pemohon.
+12. Jika diperlukan, pengurus lingkungan cetak KK BIDUK sebagai bukti klaim berhasil kepada umat pemohon.
 
 <a href="#">Kembali ke atas</a>
 
 ### Klaim Mutasi
 
-1. Bagi umat yang melakukan mutasi wilayah dan mutasi paroki, mereka hanya bisa di-klaim sekretariat gereja.
-2. Petugas sekretariat gereja yang akan mengalokasikan umat baru ke lingkungan.
-3. Setelah proses klaim berhasil, petugas sekretariat gereja info pengurus lingkungan atas tambahan umat baru.
+1. Bagi umat yang melakukan mutasi wilayah dan mutasi paroki, mereka hanya bisa di-klaim petugas sekretariat gereja.
+2. Petugas sekretariat gereja yang akan mengalokasikan KK BIDUK ke lingkungan.
+3. Setelah proses klaim berhasil, petugas sekretariat gereja info pengurus lingkungan atas tambahan KK BIDUK.
+4. Pengurus lingkungan dapat cetak KK BIDUK sebagai bukti klaim berhasil kepada umat pemohon.
 
 <a href="#">Kembali ke atas</a>
 
