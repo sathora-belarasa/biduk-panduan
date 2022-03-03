@@ -66,6 +66,7 @@
 
 ### Ubah Alamat
 
+(K-09)
 1. Pengurus lingkungan bisa ubah alamat KK BIDUK jika terjadi kekeliruan pencatatan atau umat berpindah domisili dalam lingkungan yang sama.
 2. Masuk ke menu Pencarian.
 3. Pilih menu Data Kartu Keluarga.
@@ -79,6 +80,7 @@
 
 ### Ubah Kepala
 
+(K-10)
 1. Kepala keluarga adalah sebuah pilihan hubungan keluarga.
 2. Pilihan hubungan keluarga terdapat pada Detail Anggota Keluarga.
 3. BIDUK akan meminta kepala keluarga baru ketika pilihan kepala keluarga diganti menjadi yang lain seperti suami, istri.
@@ -88,6 +90,7 @@
 
 ### Ubah Kawin
 
+(K-11)
 1. Masuk ke menu Pencarian.
 2. Pilih menu Data Kartu Keluarga.
 3. Tekan tombol Cari.
@@ -100,6 +103,7 @@
 
 ### Cetak
 
+(K-12)
 1. Masuk ke menu Form.
 2. Pilih menu Form Kartu Keluarga.
 3. Tekan tombol View untuk menampilkan semua KK BIDUK.
@@ -120,6 +124,7 @@
 
 ### Lihat Riwayat
 
+(K-13)
 1. Masuk ke menu Pencarian.
 2. Pilih Data Kartu Keluarga.
 3. Tekan tombol Cari.
@@ -184,6 +189,7 @@
 
 ### Hapus
 
+(K-14)
 1. Setiap umat hanya bergabung ke dalam satu KK BIDUK unik. Dilarang data duplikat bagi individu sama.
 2. Pengurus lingkungan menghubungi petugas sekretariat gereja dengan info minimal 2 Kode KK: satu yang valid, lainnya yang tidak valid dan ingin dihapus.
 
