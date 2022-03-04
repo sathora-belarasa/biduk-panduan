@@ -33,7 +33,7 @@ Versi 220303-2200-DRAFT. Lihat <a href="#riwayat-perubahan">riwayat perubahan</a
     * Salah seorang anggota keluarga dipilih sebagai kepala keluarga pada KK BIDUK.
     * KK BIDUK hanya dibikin satu kali dan bisa dipindah atau dimutasi ke lingkungan atau paroki lain jika keluarga yang bersangkutan berpindah domisili.
     * Analogi KK BIDUK adalah kartu keluarga yang diterbitkan pemerintah.
-    * KK BIDUK diberi nomor yang dikenal sebagai Kode KK BIDUK atau Kode KK, yang berformat huruf kapital 'K' diikuti 9 angka.
+    * KK BIDUK diberi nomor yang dikenal sebagai Kode KK BIDUK atau Kode KK, yang berformat huruf kapital 'K' diikuti 9 angka tanpa spasi antaranya.
     * Setiap anggota keluarga pada KK BIDUK yang sama memiliki Kode KK sama.
     * Jika kepala keluarga berhalangan tetap, salah satu anggota keluarga lainnya dipilih menggantikannya.
     * KK BIDUK dapat dicetak (hardcopy) jika umat memerlukannya.
@@ -41,7 +41,7 @@ Versi 220303-2200-DRAFT. Lihat <a href="#riwayat-perubahan">riwayat perubahan</a
 
 - Nomor Anggota
 
-    * Setiap anggota keluarga yang tercata pada KK BIDUK diberi nomor yang disebut Nomor Anggota atau Nomor Umat, yang berformat huruf kapital 'A' diikuti 9 angka.
+    * Setiap anggota keluarga yang tercata pada KK BIDUK diberi nomor yang disebut Nomor Anggota atau Nomor Umat, yang berformat huruf kapital 'A' diikuti 9 angka tanpa spasi antaranya.
     * Analogi Nomor Anggota adalah Nomor Induk Kependudukan atau NIK atau nomor KTP yang diterbitkan pemerintah.
     * Setiap anggota keluarga memiliki 2 nomor yaitu Kode KK dan Nomor Anggota.
     * Setiap anggota keluarga yang akan ditambahkan ke BIDUK akan divalidasi NIK-nya guna hindari data ganda.
@@ -123,6 +123,12 @@ Berikut beberapa kemungkinan skenario terkait BIDUK. Tidak menutup skenario lain
 
 - Buka menu BIDUK sebagai tab baru pada *browser*.
 - Manfaatkan fitur Grup Kriteria Pencarian untuk mempercepat tampilan kriteria pencarian yang sering digunakan. Contoh pencarian data umat berdasarkan nama yang mengandung potongan nama.
+- Lebih baik Kode KK disosialisasikan agar umat terbiasa menggunakannya ketika mereka mengurus administrasi gereja. Kode KK tercetak pada KK BIDUK *hardcopy*. Saat ini Kode KK dan NIK digunakan Tim Admin Belarasa membantu mendaftarkan umat, bukan Nomor Anggota.
+- Berhati-hatilah menyimpan unduhan hasil ekspor data KK BIDUK dan Anggota KK BIDUK. Di dalamnya tersimpan data sensitif tanpa proteksi.
+- Hindari banyak pengurus lingkungan yang dapat mengakses BIDUK. Semakin banyak orang, semakin mudah data menyebar. 
+- Hindari BIDUK diakses menggunakan *public WiFi* tempat umum.
+- Pengurus lingkungan sebaiknya menyerahkan blangko yang telah diisi ke petugas sekretariat gereja untuk diarsip terpusat. Hindari diserahterimakan kepada pengurus lingkungan berikutnya.
+- Blangko yang telah diisi tapi batal digunakan sebaiknya dihancurkan agar tidak disalahgunakan.
 
 <a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
 
@@ -135,5 +141,6 @@ Kami dapat dihubungi melalui email [data@sathora.or.id](mailto:data@sathora.or.i
 ## Riwayat Perubahan
 
 1. 10/03/2022 Versi final bagi TFT.
+2. 3/03/2022 Pengurus lingkungan urus data umat sakramental terbatas (baptis & komper, krisma, perkawinan). Pencantuman kode pada setiap prosedur agar mudah dirujuk skenario.
 
 <a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
