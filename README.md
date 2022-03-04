@@ -1,6 +1,6 @@
 # Panduan Penggunaan BIDUK Bagi Pengurus Lingkungan Sathora
 
-Panduan penggunaan BIDUK dan prosedur operasi standar bagi pengurus lingkungan melayani data umat lingkungannya.
+Panduan teknis penggunaan BIDUK dan prosedur operasi standar bagi pengurus lingkungan melayani data umat lingkungannya. Dokumen ini tidak mencakup kebijakan, pertimbangan menentukan prosedur pelayanan data umat baik pengurus lingkungan dan petugas sekretariat gereja.
 
 Versi 220303-2200-DRAFT. Lihat <a href="#riwayat-perubahan">riwayat perubahan</a>.
 
@@ -82,7 +82,7 @@ Berikut beberapa kemungkinan skenario terkait BIDUK. Tidak menutup skenario lain
 - Penambahan Anggota KK BIDUK
 
     * Kelahiran anggota keluarga.
-    * Kedatangan anggota keluarga dari lingkungan atau paroki lain.
+    * Kedatangan anggota keluarga dari lingkungan lain atau luar paroki.
 
 - Perubahan Anggota KK BIDUK
 
@@ -92,7 +92,7 @@ Berikut beberapa kemungkinan skenario terkait BIDUK. Tidak menutup skenario lain
 - Pengurangan Anggota KK BIDUK
 
     * Anggota keluarga meninggal atau berhalangan tetap.
-    * Anggota keluarga pindah ke lingkungan atau paroki lain karena pindah domisili, menikah.
+    * Anggota keluarga pindah ke lingkungan lain atau luar paroki karena pindah domisili, menikah.
 
 - Pencatatan data vaksin
 
@@ -129,6 +129,8 @@ Berikut beberapa kemungkinan skenario terkait BIDUK. Tidak menutup skenario lain
 - Hindari BIDUK diakses menggunakan *public WiFi* tempat umum.
 - Pengurus lingkungan sebaiknya menyerahkan blangko yang telah diisi ke petugas sekretariat gereja untuk diarsip terpusat. Hindari diserahterimakan kepada pengurus lingkungan berikutnya.
 - Blangko yang telah diisi tapi batal digunakan sebaiknya dihancurkan agar tidak disalahgunakan.
+- Banyak jalan menuju Roma. Untuk akses Anggota KK BIDUK bisa langsung cari gunakan nama, NIK, tanggal lahir; atau melalui KK BIDUK-nya gunakan Kode KK.
+- Gunakan komputer PC atau laptop buat akses BIDUK. Hindari gunakan smartphone. Sayangilah mata Anda.
 
 <a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
 
