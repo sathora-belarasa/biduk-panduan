@@ -9,9 +9,10 @@ Versi 220303-2200-DRAFT. Lihat <a href="#riwayat-perubahan">riwayat perubahan</a
 1. <a href="#istilah" alt="Istilah">Istilah</a>
 2. <a href="#skenario" alt="Skenario">Skenario</a>
 3. <a href="#prosedur" alt="Prosedur">Prosedur</a>
-4. <a href="#user-manual-biduk" alt="User Manual BIDUK">User manual BIDUK</a>
-5. <a href="#tips" alt="Tips">Tips</a>
-6. <a href="#narahubung" alt="Narahubung">Narahubung</a>
+4. <a href="#user-manual-biduk" alt="User manual BIDUK">User manual BIDUK</a>
+5. <a href="#kondisi-saat-ini" alt="Kondisi saat ini">Kondisi saat ini</a>
+6. <a href="#tips" alt="Tips">Tips</a>
+7. <a href="#narahubung" alt="Narahubung">Narahubung</a>
 
 ## Istilah
 
@@ -118,6 +119,12 @@ Berikut beberapa kemungkinan skenario terkait BIDUK. Tidak menutup skenario lain
 <a href="docs/BIDUK-KAJ-untuk-Admin-Paroki-v1.26.0-220118-lowres.pdf" target="_blank" alt="User Manual BIDUK">User manual BIDUK versi 1.26.0 tanggal 18/01/2022 (low resolution 72 dpi)</a>.
 
 <a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
+
+## Kondisi Saat Ini
+
+- KK BIDUK ganda beranggotakan umat sama. 
+- NIK Anggoa KK BIDUK kosong (belum tercatat di BIDUK) atau salah ketik (typo) baik kekeliruan petugas *data entry* atau dari umat sendiri.
+- Jika umat tidak ditemukan pada KK BIDUK, Anggota KK BIDUK, coba cari pada daftar mutasi sebelum input baru.
 
 ## Tips
 
