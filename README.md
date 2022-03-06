@@ -122,9 +122,10 @@ Berikut beberapa kemungkinan skenario terkait BIDUK. Tidak menutup skenario lain
 
 ## Kondisi Saat Ini
 
-- KK BIDUK ganda beranggotakan umat sama. 
+- Terdapat KK BIDUK ganda beranggotakan umat sama. 
 - NIK Anggoa KK BIDUK kosong (belum tercatat di BIDUK) atau salah ketik (typo) baik kekeliruan petugas *data entry* atau dari umat sendiri.
 - Jika umat tidak ditemukan pada KK BIDUK, Anggota KK BIDUK, coba cari pada daftar mutasi sebelum input baru.
+- Umat tunjukkan *hardcopy* KK BIDUK tapi datanya tidak ditemukan pada BIDUK.
 
 ## Tips
 
