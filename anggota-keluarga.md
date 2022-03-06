@@ -7,6 +7,10 @@
 1. Pastikan *user* berhasil masuk ke dalam BIDUK dan melihat logo BIDUK sebelum melakukan Apa-yang-ingin-Saya-lakukan.
 2. Blangko anggota KK BIDUK (termasuk kepala keluarga) versi terbaru tersedia pada menu Dokumen Pendukung.
 
+## Tips
+
+- Kolom Nama sebaiknya diisi dengan nama tertulis pada KTP. Sedangkan Nama Baptis, sesuai peruntukannya, diisi dengan nama baptis umat. Hindari sengaja menentukannya sendiri. Web Bela Rasa menggunakan hanya kolom Nama, padahal umat yang bersangkutan menggunakan nama baptis yang tertulis pada KTP.
+
 ## Apa yang ingin Saya lakukan?
 
 - (A01) Saya ingin [mencari data individu umat lingkungan](#a01-cari).
