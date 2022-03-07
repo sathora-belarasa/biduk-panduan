@@ -1,6 +1,8 @@
 # Panduan Penggunaan BIDUK Bagi Pengurus Lingkungan Sathora
 
-Panduan teknis penggunaan BIDUK dan prosedur operasi standar bagi pengurus lingkungan melayani data umat lingkungannya. Dokumen ini tidak mencakup kebijakan, pertimbangan menentukan prosedur pelayanan data umat baik pengurus lingkungan dan petugas sekretariat gereja.
+Dokumen ini disusun untuk menjelaskan garis besar penggunaan BIDUK terkait kegiatan sensus umat Sathora 2022. Termasuk beberapa prosedur operasi standar yang sering dihadapi pengurus lingkungan dalam melayani data umat lingkungannya. 
+
+Dokumen ini tidak mencakup kebijakan, pertimbangan menentukan pilihan prosedur pelayanan data umat yang dilakukan baik oleh pengurus lingkungan dan petugas sekretariat gereja.
 
 Versi 220303-2200-DRAFT. Lihat <a href="#riwayat-perubahan">riwayat perubahan</a>.
 
@@ -16,6 +18,8 @@ Versi 220303-2200-DRAFT. Lihat <a href="#riwayat-perubahan">riwayat perubahan</a
 
 ## Istilah
 
+Perlunya untuk menyamakan penggunaan istilah yang sering digunakan:
+
 - BIDUK 
 
     * Basis Informasi Data Umat Katolik sebuah sistem daring pencatatan data umat yang dibangun Keuskupan Agung Jakarta (KAJ). 
@@ -25,6 +29,9 @@ Versi 220303-2200-DRAFT. Lihat <a href="#riwayat-perubahan">riwayat perubahan</a
     * Pengurus lingkungan berinteraksi dengan BIDUK terkait data umat nonsakramental dan sakramental terbatas (baptis & komper, krisma, perkawinan). Sakramental terbatas di sini maksudnya sakramen yang diterima umat sebelum sistem BIDUK SAKRAMEN mulai digunakan. 
     * Petugas sekretariat gereja mengelola data umat sakramental.
     * Petugas sekretariat gereja klaim mutasi umat antarlingkungan beda wilayah dalam Sathora, dan antarparoki.
+    * Otorisasi BIDUK yang diberikan kepada pengurus lingkungan adalah lihat dan simpan. Karenanya, segala hal berkaitan dengan penghapusan data, pengurus lingkungan wajib hubungi petugas sekretariat gereja.
+    * Setiap lingkungan diberikan sebuah *username* untuk masuk ke dalam BIDUK. Silakan digunakan oleh pengurus lingkungan, bukan oleh umat. 
+    * Jika pergantian pengurus lingkungan, *username* tetap sama. Pengurus baru lingkungan cukup mengganti *password*.
     
 - Kartu Keluarga BIDUK
 
@@ -44,6 +51,7 @@ Versi 220303-2200-DRAFT. Lihat <a href="#riwayat-perubahan">riwayat perubahan</a
 
     * Setiap anggota keluarga yang tercata pada KK BIDUK diberi nomor yang disebut Nomor Anggota atau Nomor Umat, yang berformat huruf kapital 'A' diikuti 9 angka tanpa spasi antaranya.
     * Analogi Nomor Anggota adalah Nomor Induk Kependudukan atau NIK atau nomor KTP yang diterbitkan pemerintah.
+    * Anggota selalu menempel pada satu spesifik KK BIDUK. 
     * Setiap anggota keluarga memiliki 2 nomor yaitu Kode KK dan Nomor Anggota.
     * Setiap anggota keluarga yang akan ditambahkan ke BIDUK akan divalidasi NIK-nya guna hindari data ganda.
     * Anggota keluarga bisa keluar dari KK BIDUK-nya, lalu membuat KK BIDUK baru. Contoh anak membuat KK BIDUK baru terpisah dari orangtuanya setelah menikah meskipun tetap tinggal sealamat.
