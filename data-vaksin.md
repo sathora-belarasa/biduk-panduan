@@ -6,6 +6,10 @@
 
 1. Pastikan *user* berhasil masuk ke dalam BIDUK dan melihat logo BIDUK sebelum melakukan Apa-yang-ingin-Saya-lakukan.
 
+## Tips
+
+- Jika data umat gagal ditemukan, coba cari dulu melalui Anggota KK BIDUK atau KK BIDUK. Penyebab utama data umat gagal ditemukan adalah NIK kosong, NIK beda (keliru dari umat, keliru yang tersimpan) atau tanggal lahir beda (keliru dari umat, keliru yang tersimpan). Nama umat bisa jadi penyebab juga jika namanya umum digunakan, hanya satu suku kata.
+
 ## Apa yang ingin Saya lakukan?
 
 - (V01) Saya ingin [mencari data vaksin](#v01-cari).
