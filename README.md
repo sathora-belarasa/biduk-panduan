@@ -2,7 +2,8 @@
 
 Dokumen ini disusun untuk menjelaskan garis besar penggunaan BIDUK terkait kegiatan sensus umat Sathora 2022. Termasuk beberapa prosedur operasi standar yang sering dihadapi pengurus lingkungan dalam melayani data umat lingkungannya. 
 
-Dokumen ini tidak mencakup kebijakan, pertimbangan menentukan pilihan prosedur pelayanan data umat yang dilakukan baik oleh pengurus lingkungan dan petugas sekretariat gereja.
+Dokumen ini tidak mencakup kebijakan, pertimbangan menentukan pilihan prosedur pelayanan data umat yang dilakukan baik oleh pengurus lingkungan dan petugas sekretariat gereja. 
+Dokumen ini tidak menjelaskan kolom data yang sebaiknya diisi. BIDUK menandai kolom data wajib isi dengan tanda bintang setelah nama kolom. 
 
 Versi 220303-2200-DRAFT. Lihat <a href="#riwayat-perubahan">riwayat perubahan</a>.
 
