@@ -5,7 +5,7 @@ Dokumen ini disusun untuk menjelaskan garis besar penggunaan BIDUK terkait kegia
 Dokumen ini tidak mencakup kebijakan, pertimbangan menentukan pilihan prosedur pelayanan data umat yang dilakukan baik oleh pengurus lingkungan dan petugas sekretariat gereja. 
 Dokumen ini tidak menjelaskan kolom data yang sebaiknya diisi. BIDUK menandai kolom data wajib isi dengan tanda bintang setelah nama kolom. 
 
-Versi 220303-2200-DRAFT. Lihat <a href="#riwayat-perubahan">riwayat perubahan</a>.
+Versi 220308-2200-DRAFT. Lihat <a href="#riwayat-perubahan">riwayat perubahan</a>.
 
 ## Indeks
 
@@ -144,7 +144,7 @@ Berikut beberapa kemungkinan skenario terkait BIDUK. Tidak menutup skenario lain
 - Berhati-hatilah menyimpan unduhan hasil ekspor data KK BIDUK dan Anggota KK BIDUK. Di dalamnya tersimpan data sensitif tanpa proteksi.
 - Hindari banyak pengurus lingkungan yang dapat mengakses BIDUK. Semakin banyak orang, semakin mudah data menyebar. 
 - Hindari BIDUK diakses menggunakan *public WiFi* tempat umum.
-- Pengurus lingkungan sebaiknya menyerahkan blangko yang telah diisi ke petugas sekretariat gereja untuk diarsip terpusat. Hindari diserahterimakan kepada pengurus lingkungan berikutnya.
+- Pengurus lingkungan ~~sebaiknya~~ wajib menyerahkan blangko yang telah diisi berserta semua lampirannya ke umat pemohon~~petugas sekretariat gereja untuk diarsip terpusat~~. Hindari diarsip sendiri, diserahterimakan kepada pengurus lingkungan berikutnya.
 - Blangko yang telah diisi tapi batal digunakan sebaiknya dihancurkan agar tidak disalahgunakan.
 - Banyak jalan menuju Roma. Untuk akses Anggota KK BIDUK bisa langsung cari gunakan nama, NIK, tanggal lahir; atau melalui KK BIDUK-nya gunakan Kode KK.
 - Gunakan komputer PC atau laptop buat akses BIDUK. Hindari gunakan smartphone. Sayangilah mata Anda.
@@ -160,6 +160,7 @@ Kami dapat dihubungi melalui email [data@sathora.or.id](mailto:data@sathora.or.i
 ## Riwayat Perubahan
 
 1. 10/03/2022 Versi final bagi TFT.
-2. 3/03/2022 Pengurus lingkungan urus data umat sakramental terbatas (baptis & komper, krisma, perkawinan). Pencantuman kode pada setiap prosedur agar mudah dirujuk skenario.
+2. 8/03/2022 Revisi blangko permohonan KK BIDUK dan Anggota KK BIDUK baru diserahkan ke gereja diganti menjadi dikembalikan ke umat pemohon.
+3. 3/03/2022 Pengurus lingkungan urus data umat sakramental terbatas (baptis & komper, krisma, perkawinan). Pencantuman kode pada setiap prosedur agar mudah dirujuk skenario.
 
 <a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
