@@ -58,7 +58,7 @@
       Data Pindahan menampilkan kolom tanggal keluar, asal keuskupan, asal paroki.
 
 10. Setelah pembuatan KK BIDUK berhasil, KK BIDUK dapat dicetak dan diserahkan kepada umat pemohon sebagai bukti.
-11. Pengurus lingkungan menyerahkan blangko terisi beserta lampirannya ke sekretariat gereja untuk diarsip.
+11. Pengurus lingkungan ~~menyerahkan~~ mengembalikan blangko terisi beserta lampirannya ke umat pemohon~~sekretariat gereja untuk diarsip~~.
 
 <a href="#">Kembali ke atas</a>
 
