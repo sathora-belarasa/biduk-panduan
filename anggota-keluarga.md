@@ -58,7 +58,7 @@
 9. Tekan tombol Tambah Anggota.
 10. Ikuti tahapan-tahapan penambahan anggota keluarga baru.
 11. Setelah penambahan anggota keluarga baru berhasil, pengurus lingkungan dapat cetak (hardcopy) KK BIDUK dan Anggota KK BIDUK sebagai bukti.
-12. Pengurus lingkungan menyerahkan blangko terisi beserta lampirannya ke sekretariat gereja untuk diarsip.
+12. Pengurus lingkungan ~~menyerahkan~~ mengembalikan blangko terisi beserta lampirannya ke umat pemohon ~~sekretariat gereja untuk diarsip~~.
 
 <a href="#">Kembali ke atas</a>
 
