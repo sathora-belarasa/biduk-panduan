@@ -27,9 +27,10 @@
 - (A12) Saya ingin [memindahkan anggota KK BIDUK ke lingkungan lain sewilayah dalam Sathora](#a12-mutasi).
 - (A12) Saya ingin [memindahkan anggota KK BIDUK ke lingkungan lain beda wilayah dalam Sathora](#a12-mutasi).
 - (A12) Saya ingin [memindahkan anggtoa KK BIDUK ke paroki lain](#a12-mutasi).
-- (A13) Saya ingin [menerima anggota KK BIDUK dari lingkungan lain sewilayah dalam Sathora](#a13-klaim-mutasi-lingkungan).
-- (A14) Saya ingin [menerima anggota KK BIDUK dari lingkungan lain beda wilayah dalam Sathora](#a14-klaim-mutasi).
-- (A14) Saya ingin [menerima anggota KK BIDUK dari paroki lain](#a14-klaim-mutasi).
+- (A13) Saya ingin [menerima anggota KK BIDUK dari lingkungan lain sewilayah dalam Sathora](#a13-klaim-mutasi).
+- (A13) Saya ingin [menerima anggota KK BIDUK dari lingkungan lain beda wilayah dalam Sathora](#a13-klaim-mutasi).
+- (A13) Saya ingin [menerima anggota KK BIDUK dari paroki lain](#a13-klaim-mutasi).
+- (A14) Dilewati dengan sengaja.
 - (A15) Saya ingin [mencatat sakramen baptis dan komper anggota KK BIDUK](#a15-baptis).
 - (A16) Saya ingin [mencatat sakramen baptis dan komper anggota KK BIDUK](#a16-komuni-pertama).
 - (A17) Saya ingin [mencatat sakramen krisma anggota KK BIDUK](#a17-krisma).
@@ -218,25 +219,21 @@
 3. Berdasarkan Kode KK, pengurus lingkungan mencari KK BIDUK.
 4. Masuk ke menu Form.
 5. Pilih menu Klaim Mutasi Anggota.
-6. Pilih jenis mutasi: Mutasi Lingkungan. 
-7. Pilih lingkungan asal (dalam wilayah yang sama dengan lingkungan baru) umat pemohon.
-8. Pilih anggota KK BIDUK yang ingin diterima masuk.
-9. Tekan tombol Berikut.
-10. Pilih tujuan anggota KK BIDUK yang ingin diterima masuk: 
+6. Pilih jenis mutasi: 
+
+      - Mutasi Lingkungan: umat pindah lingkungan sewilayah dalam Sathora.
+      - Mutasi Wilayah: umat pindah lingkungan beda wilayah dalam Sathora.
+      - Mutasi Paroki: umat pindah paroki.
+
+8. Pilih lingkungan asal (dalam wilayah yang sama dengan lingkungan baru) umat pemohon.
+9. Pilih anggota KK BIDUK yang ingin diterima masuk.
+10. Tekan tombol Berikut.
+11. Pilih tujuan anggota KK BIDUK yang ingin diterima masuk: 
 
       - KK BIDUK lama yang sudah ada dalam lingkungan, atau
       - KK BIDUK baru yang akan ditambahkan ke dalam lingkungan.
       
 11. Jika diperlukan, pengurus lingkungan dapat cetak KK BIDUK sebagai bukti klaim berhasil kepada umat pemohon.
-
-<a href="#">Kembali ke atas</a>
-
-### A14 Klaim Mutasi
-
-1. Bagi umat yang melakukan mutasi wilayah dan mutasi paroki, mereka hanya bisa di-klaim petugas sekretariat gereja.
-2. Petugas sekretariat gereja yang akan mengalokasikan anggota KK BIDUK ke KK BIDUK baru atau lama di lingkungan.
-3. Setelah proses klaim berhasil, petugas sekretariat gereja info pengurus lingkungan atas tambahan anggota KK BIDUK.
-4. Pengurus lingkungan dapat cetak KK BIDUK sebagai bukti klaim berhasil kepada umat pemohon.
 
 <a href="#">Kembali ke atas</a>
 
