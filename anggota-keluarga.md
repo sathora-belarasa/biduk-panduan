@@ -189,7 +189,7 @@
 
 ### A12 Mutasi
 
-1. Umat mengajukan proses mutasi keluar lingkungan masih sewilayah di Sathora dengan infokan Kode KK dan nama anggota yang hendak dimutasi.
+1. Umat mengajukan proses mutasi keluar lingkungan dengan infokan Kode KK dan nama anggota yang hendak dimutasi.
 2. Alternatif, umat mengajukan proses mutasi melalui pengurus lingkungan baru atau petugas sekretariat gereja paroki baru.
 3. Berdasarkan Kode KK, pengurus lingkungan mencari KK BIDUK.
 4. Masuk ke menu Pencarian.
@@ -212,7 +212,7 @@
 
 <a href="#">Kembali ke atas</a>
 
-### A13 Klaim Mutasi Lingkungan
+### A13 Klaim Mutasi
 
 1. Umat telah menyelesaikan proses mutasi keluar di lingkungan lama.
 2. Umat mengajukan proses mutasi masuk di lingkungan baru dengan infokan Kode KK.
