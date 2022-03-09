@@ -14,9 +14,10 @@
 - (K03) Saya ingin [memindahkan KK BIDUK ke lingkungan lain sewilayah dalam Sathora](#k03-mutasi).
 - (K03) Saya ingin [memindahkan KK BIDUK ke lingkungan lain beda wilayah dalam Sathora](#k03-mutasi).
 - (K03) Saya ingin [memindahkan KK BIDUK ke paroki lain](#k03-mutasi).
-- (K04) Saya ingin [menerima KK BIDUK dari lingkungan lain sewilayah dalam Sathora](#k04-klaim-mutasi-lingkungan).
-- (K05) Saya ingin [menerima KK BIDUK dari lingkungan lain beda wilayah dalam Sathora](#k05-klaim-mutasi).
-- (K05) Saya ingin [menerima KK BIDUK dari paroki lain](#k05-klaim-mutasi).
+- (K04) Saya ingin [menerima KK BIDUK dari lingkungan lain sewilayah dalam Sathora](#k04-klaim-mutasi).
+- (K04) Saya ingin [menerima KK BIDUK dari lingkungan lain beda wilayah dalam Sathora](#k04-klaim-mutasi).
+- (K04) Saya ingin [menerima KK BIDUK dari paroki lain](#k04-klaim-mutasi).
+- (K05) Dilewati dengan sengaja.
 - (K06) Saya ingin [mengubah alamat KK BIDUK](#k06-ubah-alamat).
 - (K07) Saya ingin [mengganti kepala keluarga KK BIDUK](#k07-ubah-kepala).
 - (K08) Saya ingin [mengubah data perkawinan KK BIDUK](#k08-ubah-kawin).
@@ -151,29 +152,25 @@
 
 <a href="#">Kembali ke atas</a>
 
-### K04 Klaim Mutasi Lingkungan
+### K04 Klaim Mutasi
 
 1. Umat telah menyelesaikan proses mutasi keluar di lingkungan lama.
 2. Umat mengajukan proses mutasi masuk di lingkungan baru dengan infokan Kode KK.
 3. Berdasarkan Kode KK, pengurus lingkungan mencari KK BIDUK.
 4. Masuk ke menu Form.
 5. Pilih menu Klaim Mutasi Keluarga.
-6. Pilih jenis mutasi: Mutasi Lingkungan. 
-7. Pilih lingkungan asal (dalam wilayah yang sama dengan lingkungan baru) umat pemohon.
-8. Pilih KK BIDUK yang ingin diterima masuk.
-9. Tekan tombol Berikut.
-10. Tekan tombol Edit untuk mengubah alamat domisili.
-11. Tekan tombol Simpan untuk konfirmasi penerimaan.
-12. Jika diperlukan, pengurus lingkungan cetak KK BIDUK sebagai bukti klaim berhasil kepada umat pemohon.
+6. Pilih jenis mutasi: 
 
-<a href="#">Kembali ke atas</a>
+      - Mutasi Lingkungan: umat pindah lingkungan sewilayah dalam Sathora.
+      - Mutasi Wilayah: umat pindah lingkungan beda wilayah dalam Sathora.
+      - Mutasi Paroki: umat pindah paroki.
 
-### K05 Klaim Mutasi
-
-1. Bagi umat yang melakukan mutasi wilayah dan mutasi paroki, mereka hanya bisa di-klaim petugas sekretariat gereja.
-2. Petugas sekretariat gereja yang akan mengalokasikan KK BIDUK ke lingkungan.
-3. Setelah proses klaim berhasil, petugas sekretariat gereja info pengurus lingkungan atas tambahan KK BIDUK.
-4. Pengurus lingkungan dapat cetak KK BIDUK sebagai bukti klaim berhasil kepada umat pemohon.
+9. Pilih lingkungan asal (dalam wilayah yang sama dengan lingkungan baru) umat pemohon.
+10. Pilih KK BIDUK yang ingin diterima masuk.
+11. Tekan tombol Berikut.
+12. Tekan tombol Edit untuk mengubah alamat domisili.
+13. Tekan tombol Simpan untuk konfirmasi penerimaan.
+14. Jika diperlukan, pengurus lingkungan cetak KK BIDUK sebagai bukti klaim berhasil kepada umat pemohon.
 
 <a href="#">Kembali ke atas</a>
 
