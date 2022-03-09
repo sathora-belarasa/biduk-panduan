@@ -5,6 +5,8 @@ Dokumen ini disusun untuk menjelaskan garis besar penggunaan BIDUK terkait kegia
 Dokumen ini tidak mencakup kebijakan, pertimbangan menentukan pilihan prosedur pelayanan data umat yang dilakukan baik oleh pengurus lingkungan dan petugas sekretariat gereja. 
 Dokumen ini tidak menjelaskan kolom data yang sebaiknya diisi. BIDUK menandai kolom data wajib isi dengan tanda bintang setelah nama kolom. 
 
+Pengurus lingkungan yang akan menggunakan BIDUK sebaiknya memiliki kemampuan menggunakan komputer dasar seperti menggunakan *browser*; aplikasi *spreadsheet*: Microsoft Excel, Google Sheet.
+
 Versi 220309-2200-DRAFT. Lihat <a href="#riwayat-perubahan">riwayat perubahan</a>.
 
 ## Indeks
@@ -33,6 +35,12 @@ Perlunya untuk menyamakan penggunaan istilah yang sering digunakan:
     * Otorisasi BIDUK yang diberikan kepada pengurus lingkungan adalah lihat dan simpan. Karenanya, segala hal berkaitan dengan penghapusan data, pengurus lingkungan wajib hubungi petugas sekretariat gereja.
     * Setiap lingkungan diberikan sebuah *username* untuk masuk ke dalam BIDUK. Silakan digunakan oleh pengurus lingkungan, bukan oleh umat. 
     * Jika pergantian pengurus lingkungan, *username* tetap sama. Pengurus baru lingkungan cukup mengganti *password*.
+
+- BIDUK SAKRAMEN
+
+    * Fitur BIDUK untuk memperbarui data sakramen umat lintas paroki yang tercatat pada BIDUK setelah menerima sakramen yang diselenggarakan sebuah paroki sejak fitur ini tersedia. 
+    * Petugas sekretariat gereja akan menerima notifikasi umat parokinya yang telah menerima sakramen.
+    * Pengurus lingkungan dapat melayani data sakramen umatnya yang belum tercatat atau keliru catat pada BIDUK.
     
 - Kartu Keluarga BIDUK
 
