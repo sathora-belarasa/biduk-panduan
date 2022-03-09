@@ -129,7 +129,7 @@
 
 ### K03 Mutasi
 
-1. Umat mengajukan proses mutasi keluar lingkungan masih sewilayah di Sathora dengan infokan Kode KK.
+1. Umat mengajukan proses mutasi keluar lingkungan dengan infokan Kode KK.
 2. Alternatif, umat mengajukan proses mutasi melalui pengurus lingkungan baru atau petugas sekretariat gereja paroki baru.
 3. Berdasarkan Kode KK, pengurus lingkungan mencari KK BIDUK.
 4. Masuk ke menu Pencarian.
