@@ -25,7 +25,7 @@ Perlunya untuk menyamakan penggunaan istilah yang sering digunakan:
 
 - BIDUK 
 
-    * Basis Informasi Data Umat Katolik sebuah sistem daring pencatatan data umat yang dibangun Keuskupan Agung Jakarta (KAJ). 
+    * Basis Integrasi Data Umat Keuskupan sebuah sistem daring pencatatan data umat yang dibangun Keuskupan Agung Jakarta (KAJ). 
     * Sistem ini dapat diakses menggunakan perambah (browser) yang terhubung internet. 
     * Rekomendasi perambah adalah Google Chrome versi terbaru. 
     * Alamat akses BIDUK adalah <a href="https://biduk.or.id" alt="https://biduk.or.id" target="_blank">https://biduk.or.id</a>. 
