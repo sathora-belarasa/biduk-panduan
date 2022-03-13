@@ -7,6 +7,42 @@
 1. Pastikan *user* berhasil masuk ke dalam BIDUK dan melihat logo BIDUK sebelum melakukan Apa-yang-ingin-Saya-lakukan.
 2. Blangko anggota KK BIDUK (termasuk kepala keluarga) versi terbaru tersedia pada menu Dokumen Pendukung.
 
+## Minimal data wajib tersedia (umum)
+
+1. NIK, nama resmi, tempat & tanggal lahir, jenis kelamin
+2. Agama
+3. Hubungan keluarga, status menikah
+4. Nomor hape (minimal salah satu anggota keluarga)
+5. Alamat email tidak wajib tapi direkomendasi milik salah satu anggota keluarga
+6. Golongan darah, rhesus tidak wajib tapi direkomendasi
+7. Penyandang disabilitas, jenis disabilitas
+8. Tanggal kematian khusus bagi almarhum/ah
+
+## Minimal data wajib tersedia (baptis) - jika sudah terima
+
+1. Tanggal baptis
+2. Jenis baptis
+3. Keuskupan, paroki tempat baptis
+4. Tempat baptis diisi dengan nama gereja baptis
+
+## Minimal data wajib tersedia (komuni pertama) - jika sudah terima
+
+1. Tanggal komper
+2. Keuskupan, paroki tempat komper
+
+## Minimal data wajib tersedia (krisma) - jika sudah terima
+
+1. Tanggal penguatan
+2. Pemberi penguatan
+3. Keuskupan, paroki tempat penguatan
+
+## Minimal data wajib tersedia (perkawinan) - jika sudah terima
+
+1. Jenis perkawinan
+2. Dispensasi tergantung kondisi
+3. Tanggal kawin katolik
+4. Keuskupan, paroki tempat perkawinan
+
 ## Tips
 
 - Kolom Nama sebaiknya diisi dengan nama tertulis pada KTP. Sedangkan Nama Baptis, sesuai peruntukannya, diisi dengan nama baptis umat. Hindari sengaja menentukannya sendiri. Web Bela Rasa menggunakan hanya kolom Nama, padahal umat yang bersangkutan menggunakan nama baptis yang tertulis pada KTP.
