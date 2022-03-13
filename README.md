@@ -18,6 +18,7 @@ Versi 220309-2200-DRAFT. Lihat <a href="#riwayat-perubahan">riwayat perubahan</a
 5. <a href="#kondisi-saat-ini" alt="Kondisi saat ini">Kondisi saat ini</a>
 6. <a href="#tips" alt="Tips">Tips</a>
 7. <a href="#narahubung" alt="Narahubung">Narahubung</a>
+8. <a href="tanya-jawab" alt="Tanya jawab">Tanya jawab</a>
 
 ## Istilah
 
