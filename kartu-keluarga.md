@@ -7,6 +7,12 @@
 1. Pastikan *user* berhasil masuk ke dalam BIDUK dan melihat logo BIDUK sebelum melakukan Apa-yang-ingin-Saya-lakukan.
 2. Blangko anggota KK BIDUK (termasuk kepala keluarga) versi terbaru tersedia pada menu Dokumen Pendukung.
 
+## Minimal data wajib tersedia
+
+1. Data kepala keluarga sama dengan data Anggota KK BIDUK
+2. Alamat domisili, kecamatan, kelurahan
+3. RT dan RW tidak wajib tapi direkomendasi
+
 ## Apa yang ingin Saya lakukan?
 
 - (K01) Saya ingin [mencari KK BIDUK berdasarkan Kode KK](#k01-cari).
