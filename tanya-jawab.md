@@ -2,7 +2,6 @@
 
 ## Sesi 12/03/2022
 
----
 
 Tanya: Apakah tidak sebaiknya dibuatkan standard untuk beberapa case yang sering terjadi. 
 Anak yang kuliah di luar kota, tetap dicatat, tetapi dengan catatan khusus. Kalau tidak, data bisa misleading. 
