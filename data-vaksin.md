@@ -6,6 +6,14 @@
 
 1. Pastikan *user* berhasil masuk ke dalam BIDUK dan melihat logo BIDUK sebelum melakukan Apa-yang-ingin-Saya-lakukan.
 
+## Minimal data wajib tersedia
+
+1. NIK, nama resmi, tanggal lahir sesuai sertifikat vaksin
+2. Nomor hape
+3. Alamat email tidak wajib tapi direkomendasi
+4. Tanggal vaksin kesatu sesuai sertifikat vaksin
+5. Tanggal vaksin kedua sesuai sertifikat vaksin
+
 ## Tips
 
 - Jika data umat gagal ditemukan, coba cari dulu melalui Anggota KK BIDUK atau KK BIDUK. Penyebab utama data umat gagal ditemukan adalah NIK kosong, NIK beda (keliru dari umat, keliru yang tersimpan) atau tanggal lahir beda (keliru dari umat, keliru yang tersimpan). Nama umat bisa jadi penyebab juga jika namanya umum digunakan, hanya satu suku kata.
