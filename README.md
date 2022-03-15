@@ -155,7 +155,7 @@ Berikut beberapa kemungkinan skenario terkait BIDUK. Tidak menutup skenario lain
 - Berhati-hatilah menyimpan unduhan hasil ekspor data KK BIDUK dan Anggota KK BIDUK. Di dalamnya tersimpan data sensitif tanpa proteksi.
 - Hindari banyak pengurus lingkungan yang dapat mengakses BIDUK. Semakin banyak orang, semakin mudah data menyebar. 
 - Hindari BIDUK diakses menggunakan *public WiFi* tempat umum.
-- Pengurus lingkungan ~~sebaiknya~~ wajib menyerahkan blangko yang telah diisi berserta semua lampirannya ke umat pemohon~~petugas sekretariat gereja untuk diarsip terpusat~~. Hindari diarsip sendiri, diserahterimakan kepada pengurus lingkungan berikutnya.
+- Pengurus lingkungan ~~sebaiknya~~ wajib menyerahkan kembali blangko yang telah diisi berserta semua lampirannya ke umat pemohon~~petugas sekretariat gereja untuk diarsip terpusat~~. Hindari diarsip sendiri, diserahterimakan kepada pengurus lingkungan berikutnya.
 - Blangko yang telah diisi tapi batal digunakan sebaiknya dihancurkan agar tidak disalahgunakan.
 - Banyak jalan menuju Roma. Untuk akses Anggota KK BIDUK bisa langsung cari gunakan nama, NIK, tanggal lahir; atau melalui KK BIDUK-nya gunakan Kode KK.
 - Gunakan komputer PC atau laptop buat akses BIDUK. Hindari gunakan smartphone. Sayangilah mata Anda.
