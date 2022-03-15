@@ -7,7 +7,7 @@
 1. <a href="#prasyarat" alt="Istilah">Prasyarat</a>
 2. <a href="#minimal-data-wajib-tersedia" alt="Minimal data wajib tersedia">Minimal data wajib tersedia</a>
 3. <a href="#tips" alt="Tips">Tips</a>
-4. <a href="#apa-yang-ingin-saya-lakukan?" alt="Apa yang ingin saya lakukan?">Apa yang ingin saya lakukan?</a>
+4. <a href="#apa-yang-ingin-saya-lakukan" alt="Apa yang ingin saya lakukan">Apa yang ingin saya lakukan</a>
 
 ## Prasyarat
 
@@ -61,7 +61,7 @@
 
 <a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
 
-## Apa yang ingin Saya lakukan?
+## Apa Yang Ingin Saya Lakukan
 
 - (A01) Saya ingin [mencari data individu umat lingkungan](#a01-cari).
 - (A02) Saya ingin [menambah anggota ke dalam KK BIDUK](#a02-buat-baru).
@@ -96,7 +96,7 @@
 5. Tekan tombol Cari yang akan menampilkan hasil pencarian yang memenuhi kriteria pencarian.
 6. Untuk lihat detail Anggota KK BIDUK, tekan pada baris dengan data yang dituju.
 
-<a href="#apa-yang-ingin-saya-lakukan?">Kembali ke Apa yang ingin saya lakukan?</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### A02 Buat Baru
 
@@ -113,7 +113,7 @@
 11. Setelah penambahan anggota keluarga baru berhasil, pengurus lingkungan dapat cetak (hardcopy) KK BIDUK dan Anggota KK BIDUK sebagai bukti.
 12. Pengurus lingkungan ~~menyerahkan~~ mengembalikan blangko terisi beserta lampirannya ke umat pemohon ~~sekretariat gereja untuk diarsip~~.
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### A03 Ubah
 
@@ -128,7 +128,7 @@
 9. Tekan tombol Simpan.
 10. Pengurus lingkungan dapat cetak (hardcopy) Anggota KK BIDUK yang telah diperbarui dengan tekan menu samping Cetak Anggota. 
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### A04 Mutasi Agama
 
@@ -144,7 +144,7 @@
 10. Tekan tombol Simpan.
 11. Pengurus lingkungan dapat cetak (hardcopy) KK BIDUK atau Anggota KK BIDUK yang telah diperbarui. 
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### A05 Mutasi Almarhum
 
@@ -160,13 +160,13 @@
 10. Masukkan tanggal meninggal almarhum.
 11. Tekan tombol Simpan.
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### A06 Hapus
 
 1. Petugas lingkungan menghubungi petugas sekretariat gereja guna menghapus anggota KK BIDUK.
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### A07 Cetak
 
@@ -178,7 +178,7 @@
 6. Tekan menu samping Cetak Anggota.
 7. Pilih cetak ke printer atau ekspor ke file.
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### A08 Lihat Riwayat
 
@@ -189,7 +189,7 @@
 5. Masuk ke detail Anggota KK BIDUK dengan tekan baris data yang ingin dilihat riwayatnya.
 6. Tekan menu samping History Anggota.
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### A09 Orang tua
 
@@ -202,7 +202,7 @@
 7. Masukkan data orang tua umat pemohon.
 8. Tekan tombol Simpan.
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### A10 Kepengurusan
 
@@ -215,7 +215,7 @@
 7. Masukkan data kepengurusan umat pemohon.
 8. Tekan tombol Simpan.
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### A11 Mutasi KK
 
@@ -237,7 +237,7 @@
  
 13. Jika diperlukan, pengurus lingkungan dapat cetak KK BIDUK lama dan baru sebagai bukti kepada umat pemohon.
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### A12 Mutasi
 
@@ -262,7 +262,7 @@
 14. Pengurus lingkungan info pemohon proses mutasi keluar berhasil.
 15. Pengurus lingkungan ingatkan umat hubungi pengurus lingkungan tujuan untuk proses mutasi masuk.
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### A13 Klaim Mutasi
 
@@ -287,7 +287,7 @@
       
 11. Jika diperlukan, pengurus lingkungan dapat cetak KK BIDUK sebagai bukti klaim berhasil kepada umat pemohon.
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### A15 Baptis
 
@@ -300,7 +300,7 @@
 7. Masukkan data baptis umat pemohon.
 8. Tekan tombol Simpan.
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### A16 Komuni Pertama
 
@@ -313,7 +313,7 @@
 7. Masukkan data komuni pertama umat pemohon.
 8. Tekan tombol Simpan.
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### A17 Krisma
 
@@ -326,7 +326,7 @@
 7. Masukkan data krisma umat pemohon.
 8. Tekan tombol Simpan.
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ## Referensi
 
