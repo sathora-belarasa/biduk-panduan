@@ -6,7 +6,7 @@
 
 1. Pastikan *user* berhasil masuk ke dalam BIDUK dan melihat logo BIDUK sebelum melakukan Apa-yang-ingin-Saya-lakukan.
 
-## Minimal data wajib tersedia
+## Minimal Data Wajib Tersedia
 
 1. NIK, nama resmi, tanggal lahir sesuai sertifikat vaksin
 2. Nomor hape
@@ -18,7 +18,7 @@
 
 - Jika data umat gagal ditemukan, coba cari dulu melalui Anggota KK BIDUK atau KK BIDUK. Penyebab utama data umat gagal ditemukan adalah NIK kosong, NIK beda (keliru dari umat, keliru yang tersimpan) atau tanggal lahir beda (keliru dari umat, keliru yang tersimpan). Nama umat bisa jadi penyebab juga jika namanya umum digunakan, hanya satu suku kata.
 
-## Apa yang ingin Saya lakukan?
+## Apa Yang Ingin Saya Lakukan
 
 - (V01) Saya ingin [mencari data vaksin](#v01-cari).
 - (V02) Saya ingin [melaporkan data vaksin](#v02-lapor).
@@ -34,7 +34,7 @@
 4. Tekan tombol Cari.
 5. Umat yang telah melaporkan data vaksin akan ditampilkan.
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### V02 Lapor
 
@@ -54,13 +54,13 @@
 
 8. Tekan tombol Simpan.
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### V03 Hapus
 
 1. Pengurus lingkungan menghubungi petugas sekretariat gereja dengan info data vaksin yang ingin dihapus: Lingkungan, Nama.
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### V04 Ubah
 
@@ -74,7 +74,7 @@
 8. Tekan tombol Simpan.
 9. Alternatif, tekan tombol Input Data Vaksin Berikutnya.
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### V05 Unduh
 
@@ -86,7 +86,7 @@
 6. Tekan tombol Unduh.
 7. Unduhan berupa file Excel (.xlsx) yang pengurus lingkungan bisa kelola lebih lanjut.
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### Referensi
 
