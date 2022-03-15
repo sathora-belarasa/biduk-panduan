@@ -119,7 +119,7 @@
 1. Masuk ke menu Form.
 2. Pilih menu Form Kartu Keluarga.
 3. Tekan tombol View untuk menampilkan semua KK BIDUK.
-4. Pilih minimal satu KK BIDUK untuk dicetak.
+4. Pilih minimal satu KK BIDUK untuk dicetak. 
 5. Tekan tombol Cetak, lalu pilih Cetak KK.
 6. Unduhan berupa file .pdf.
 
