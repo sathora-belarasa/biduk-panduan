@@ -166,7 +166,7 @@ Berikut beberapa kemungkinan skenario terkait BIDUK. Tidak menutup skenario lain
 
 Berikut pilihan-pilihan yang telah disediakan BIDUK untuk beberapa kolom tertentu.
 
-![BIDUK Predefined Values](/docs/biduk-predefined-values.jpg "BIDUK Predefined Values")
+![BIDUK Predefined Values](/docs/biduk-predefined-values.jpeg "BIDUK Predefined Values")
 
 <a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
 
