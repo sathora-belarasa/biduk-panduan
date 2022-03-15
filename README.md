@@ -17,8 +17,9 @@ Versi 220313-1915. Lihat <a href="#riwayat-perubahan">riwayat perubahan</a>.
 4. <a href="#user-manual-biduk" alt="User manual BIDUK">User manual BIDUK</a>
 5. <a href="#kondisi-saat-ini" alt="Kondisi saat ini">Kondisi saat ini</a>
 6. <a href="#tips" alt="Tips">Tips</a>
-7. <a href="#narahubung" alt="Narahubung">Narahubung</a>
-8. <a href="tanya-jawab" alt="Tanya jawab">Tanya jawab</a>
+7. <a href="tanya-jawab" alt="Tanya jawab">Tanya jawab</a>
+8. <a href="predefined-values" alt="Predefined values">Predefined Values</a>
+9. <a href="#narahubung" alt="Narahubung">Narahubung</a>
 
 ## Istilah
 
@@ -158,6 +159,14 @@ Berikut beberapa kemungkinan skenario terkait BIDUK. Tidak menutup skenario lain
 - Blangko yang telah diisi tapi batal digunakan sebaiknya dihancurkan agar tidak disalahgunakan.
 - Banyak jalan menuju Roma. Untuk akses Anggota KK BIDUK bisa langsung cari gunakan nama, NIK, tanggal lahir; atau melalui KK BIDUK-nya gunakan Kode KK.
 - Gunakan komputer PC atau laptop buat akses BIDUK. Hindari gunakan smartphone. Sayangilah mata Anda.
+
+<a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
+
+## Predefined Values
+
+Berikut pilihan-pilihan yang telah disediakan BIDUK untuk beberapa kolom tertentu.
+
+![BIDUK Predefined Values](/docs/biduk-predefined-values.jpg "BIDUK Predefined Values")
 
 <a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
 
