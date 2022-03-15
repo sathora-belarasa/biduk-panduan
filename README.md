@@ -17,7 +17,7 @@ Versi 220313-1915. Lihat <a href="#riwayat-perubahan">riwayat perubahan</a>.
 4. <a href="#user-manual-biduk" alt="User manual BIDUK">User manual BIDUK</a>
 5. <a href="#kondisi-saat-ini" alt="Kondisi saat ini">Kondisi saat ini</a>
 6. <a href="#tips" alt="Tips">Tips</a>
-7. <a href="#tanya-jawab" alt="Tanya jawab">Tanya jawab</a>
+7. <a href="tanya-jawab" alt="Tanya jawab">Tanya jawab</a>
 8. <a href="#predefined-values" alt="Predefined values">Predefined Values</a>
 9. <a href="#narahubung" alt="Narahubung">Narahubung</a>
 
