@@ -2,18 +2,29 @@
 
 <a href="/biduk-panduan">Kembali ke Homepage</a>
 
+## Indeks
+
+1. <a href="#prasyarat" alt="Prasyarat">Prasyarat</a>
+2. <a href="#minimal-data-wajib-tersedia" alt="Minimal data wajib tersedia">Minimal data wajib tersedia</a>
+3. <a href="#tips" alt="Tips">Tips</a>
+4. <a href="#apa-yang-ingin-saya-lakukan" alt="Apa yang ingin saya lakukan">Apa yang ingin saya lakukan</a>
+
 ## Prasyarat
 
 1. Pastikan *user* berhasil masuk ke dalam BIDUK dan melihat logo BIDUK sebelum melakukan Apa-yang-ingin-Saya-lakukan.
 2. Blangko anggota KK BIDUK (termasuk kepala keluarga) versi terbaru tersedia pada menu Dokumen Pendukung.
 
-## Minimal data wajib tersedia
+## Minimal Data Wajib Tersedia
 
 1. Data kepala keluarga sama dengan data Anggota KK BIDUK
 2. Alamat domisili, kecamatan, kelurahan
 3. RT dan RW tidak wajib tapi direkomendasi
 
-## Apa yang ingin Saya lakukan?
+## Tips
+
+- Penulisan alamat disarankan seragam dan konsisten. Hal ini akan memudahkan pencarian KK BIDUK berdasarkan bagian alamat seperti nama jalan, nomor blok. Contoh yang disarankan: Jl. Pulau Kapuk IX Z9/909. Hindari penulisan alamat yang sama seperti berikut: Jl. Pulau Kapuk IX Z 9 / 9 0 9.
+
+## Apa Yang Ingin Saya Lakukan
 
 - (K01) Saya ingin [mencari KK BIDUK berdasarkan Kode KK](#k01-cari).
 - (K02) Saya ingin [membuat KK BIDUK baru](#k02-buat-baru).
@@ -40,7 +51,7 @@
 5. Tekan tombol Cari yang akan menampilkan hasil pencarian yang memenuhi kriteria pencarian.
 6. Untuk lihat detail Anggota KK BIDUK, tekan pada baris dengan data yang dituju.
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### K02 Buat Baru
 
@@ -67,7 +78,7 @@
 10. Setelah pembuatan KK BIDUK berhasil, KK BIDUK dapat dicetak dan diserahkan kepada umat pemohon sebagai bukti.
 11. Pengurus lingkungan ~~menyerahkan~~ mengembalikan blangko terisi beserta lampirannya ke umat pemohon~~sekretariat gereja untuk diarsip~~.
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### K06 Ubah Alamat
 
@@ -80,7 +91,7 @@
 7. Ketik alamat baru, RT, RW.
 8. Tekan tombol Simpan (di bawah kolom Status Rumah).
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### K07 Ubah Kepala
 
@@ -89,7 +100,7 @@
 3. BIDUK akan meminta kepala keluarga baru ketika pilihan kepala keluarga diganti menjadi yang lain seperti suami, istri.
 4. Alternatif, BIDUK akan meminta kepala keluarga baru ketika kepala keluarga lama berubah status almarhumnya menjadi Ya. Ini dibahas pada Anggota KK BIDUK.
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### K08 Ubah Kawin
 
@@ -101,7 +112,7 @@
 6. Masukkan minimal kolom yang wajib diisi.
 7. Tekan tombol Simpan.
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### K09 Cetak
 
@@ -121,7 +132,7 @@
 5. Pada Form Kartu Keluarga Detail, tekan menu samping Cetak KK.
 6. Pilih cetak ke printer atau ekspor ke file.
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### K10 Lihat Riwayat
 
@@ -131,7 +142,7 @@
 4. Pilih salah satu KK BIDUK pada hasil pencarian.
 5. Pada Form Kartu Keluarga Detail, tekan menu samping History KK.
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### K03 Mutasi
 
@@ -156,7 +167,7 @@
 14. Pengurus lingkungan info umat proses mutasi keluar berhasil.
 15. Pengurus lingkungan ingatkan umat hubungi pengurus lingkungan tujuan untuk proses mutasi masuk.
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### K04 Klaim Mutasi
 
@@ -178,14 +189,14 @@
 13. Tekan tombol Simpan untuk konfirmasi penerimaan.
 14. Jika diperlukan, pengurus lingkungan cetak KK BIDUK sebagai bukti klaim berhasil kepada umat pemohon.
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ### K11 Hapus
 
 1. Setiap umat hanya bergabung ke dalam satu KK BIDUK unik. Dilarang data duplikat bagi individu sama.
 2. Pengurus lingkungan menghubungi petugas sekretariat gereja dengan info minimal 2 Kode KK: satu yang valid, lainnya yang tidak valid dan ingin dihapus.
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
 ## Referensi
 
