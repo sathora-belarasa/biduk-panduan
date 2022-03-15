@@ -4,7 +4,7 @@
 
 ## Indeks
 
-1. <a href="#prasyarat" alt="Istilah">Prasyarat</a>
+1. <a href="#prasyarat" alt="Prasyarat">Prasyarat</a>
 2. <a href="#minimal-data-wajib-tersedia" alt="Minimal data wajib tersedia">Minimal data wajib tersedia</a>
 3. <a href="#tips" alt="Tips">Tips</a>
 4. <a href="#apa-yang-ingin-saya-lakukan" alt="Apa yang ingin saya lakukan">Apa yang ingin saya lakukan</a>
