@@ -2,12 +2,21 @@
 
 <a href="/biduk-panduan">Kembali ke Homepage</a>
 
+## Indeks
+
+1. <a href="#prasyarat" alt="Istilah">Prasyarat</a>
+2. <a href="#minimal-data-wajib-tersedia" alt="Minimal data wajib tersedia">Minimal data wajib tersedia</a>
+3. <a href="#tips" alt="Tips">Tips</a>
+4. <a href="#apa-yang-ingin-saya-lakukan?" alt="Apa yang ingin saya lakukan?">Apa yang ingin saya lakukan?</a>
+
 ## Prasyarat
 
 1. Pastikan *user* berhasil masuk ke dalam BIDUK dan melihat logo BIDUK sebelum melakukan Apa-yang-ingin-Saya-lakukan.
 2. Blangko anggota KK BIDUK (termasuk kepala keluarga) versi terbaru tersedia pada menu Dokumen Pendukung.
 
-## Minimal data wajib tersedia (umum)
+## Minimal Data Wajib Tersedia
+
+### Data Umum
 
 1. NIK, nama resmi, tempat & tanggal lahir, jenis kelamin
 2. Agama
@@ -18,34 +27,39 @@
 7. Penyandang disabilitas, jenis disabilitas
 8. Tanggal kematian khusus bagi almarhum/ah
 
-## Minimal data wajib tersedia (baptis) - jika sudah terima
+### Data Baptis - jika sudah terima
 
 1. Tanggal baptis
 2. Jenis baptis
 3. Keuskupan, paroki tempat baptis
 4. Tempat baptis diisi dengan nama gereja baptis
 
-## Minimal data wajib tersedia (komuni pertama) - jika sudah terima
+### Data Komuni Pertama - jika sudah terima
 
 1. Tanggal komper
 2. Keuskupan, paroki tempat komper
 
-## Minimal data wajib tersedia (krisma) - jika sudah terima
+### Data Krisma - jika sudah terima
 
 1. Tanggal penguatan
 2. Pemberi penguatan
 3. Keuskupan, paroki tempat penguatan
 
-## Minimal data wajib tersedia (perkawinan) - jika sudah terima
+### Data Perkawinan - jika sudah terima
 
 1. Jenis perkawinan
 2. Dispensasi tergantung kondisi
 3. Tanggal kawin katolik
 4. Keuskupan, paroki tempat perkawinan
 
+<a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
+
 ## Tips
 
 - Kolom Nama sebaiknya diisi dengan nama tertulis pada KTP. Sedangkan Nama Baptis, sesuai peruntukannya, diisi dengan nama baptis umat. Hindari sengaja menentukannya sendiri. Web Bela Rasa menggunakan hanya kolom Nama, padahal umat yang bersangkutan menggunakan nama baptis yang tertulis pada KTP.
+- Penulisan nomor handphone disarankan tanpa kode negara, kecuali diperlukan, dan tanpa spasi diantaranya. Contoh: 08123456789, +6587654321.
+
+<a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
 
 ## Apa yang ingin Saya lakukan?
 
@@ -71,6 +85,8 @@
 - (A16) Saya ingin [mencatat sakramen baptis dan komper anggota KK BIDUK](#a16-komuni-pertama).
 - (A17) Saya ingin [mencatat sakramen krisma anggota KK BIDUK](#a17-krisma).
 
+<a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
+
 ### A01 Cari
 
 1. Masuk menu Pencarian.
@@ -80,7 +96,7 @@
 5. Tekan tombol Cari yang akan menampilkan hasil pencarian yang memenuhi kriteria pencarian.
 6. Untuk lihat detail Anggota KK BIDUK, tekan pada baris dengan data yang dituju.
 
-<a href="#">Kembali ke atas</a>
+<a href="#apa-yang-ingin-saya-lakukan?">Kembali ke Apa yang ingin saya lakukan?</a>
 
 ### A02 Buat Baru
 
