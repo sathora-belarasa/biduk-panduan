@@ -16,11 +16,12 @@ Versi 220321-2008. Lihat <a href="#riwayat-perubahan">riwayat perubahan</a>.
 3. <a href="#prosedur" alt="Prosedur">Prosedur</a>
 4. <a href="#user-manual-biduk" alt="User manual BIDUK">User manual BIDUK</a>
 5. <a href="#kondisi-saat-ini" alt="Kondisi saat ini">Kondisi saat ini</a>
-6. <a href="#tips" alt="Tips">Tips</a>
-7. <a href="tanya-jawab" alt="Tanya jawab">Tanya jawab</a>
-8. <a href="#predefined-values" alt="Predefined values">Predefined Values</a>
-9. <a href="#excel-data-umat" alt="Excel Data Umat">Excel Data Umat</a>
-10. <a href="#narahubung" alt="Narahubung">Narahubung</a>
+6. <a href="#menu-biduk" alt="Menu BIDUK">Menu BIDUK</a>
+7. <a href="#tips" alt="Tips">Tips</a>
+8. <a href="tanya-jawab" alt="Tanya jawab">Tanya jawab</a>
+9. <a href="#predefined-values" alt="Predefined values">Predefined Values</a>
+10. <a href="#excel-data-umat" alt="Excel Data Umat">Excel Data Umat</a>
+11. <a href="#narahubung" alt="Narahubung">Narahubung</a>
 
 ## Istilah
 
@@ -163,6 +164,40 @@ Berikut beberapa kemungkinan skenario terkait BIDUK. Tidak menutup skenario lain
 
 <a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
 
+## Menu BIDUK
+
+Berikut pilihan menu yang pengurus lingkungan akan lihat setelah berhasil masuk BIDUK (mulai paling kiri):
+
+1. Data Utama
+
+      Berisi submenu konfigurasi dan predefined values yang telah disiapkan.
+
+2. Form
+
+      Berisi submenu pembuatan KK BIDUK baru, pencetakan multi (anggota) KK BIDUK, klaim mutasi (anggota) KK BIDUK.
+
+3. Pencarian
+
+      Berisi submenu pencarian data (anggota) KK BIDUK sesuai kriteria tertentu, pencarian data mutasi (anggota) KK BIDUK.
+
+4. Pesan
+
+      Fasilitas mengirimkan dan menerima pesan internal BIDUK. Bisa digunakan untuk berkomunikasi dengan lingkungan umat sebelumnya terkait mutasi. Tidak ada notifikasi ke email resmi lingkungan; perlu cek BIDUK berkala.
+
+5. Dokumen
+
+      Tempat mengunduh dokumen seperti blangko data umat, surat keterangan keuskupan.
+
+6. Help
+
+      Tempat mengunduh user manual.
+
+7. Welcome, <username>
+   
+      Berisi submenu ganti password, keluar.
+
+<a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
+   
 ## Predefined Values
 
 Berikut pilihan-pilihan yang telah disediakan BIDUK untuk beberapa kolom tertentu.
