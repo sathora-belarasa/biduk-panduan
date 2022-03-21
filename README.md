@@ -100,7 +100,7 @@ Berikut beberapa kemungkinan skenario terkait BIDUK. Tidak menutup skenario lain
 
     * Sekeluarga pindah keluar domisili ke lingkungan baru dalam Sathora, atau ke luar Sathora.
     * Sekeluarga pindah masuk domisi ke lingkungan.
-    * Sekeluarga sudah pindah tanpa lapor ke pengurus lingkungan. Jenis mutasinya lingkungan. Jika suatu hari diketahui pindah lingkungan beda wilayah atau paroki lain, klaim mutasi dulu lalu mutasi kembali dengan jenis sesuai.
+    * Sekeluarga sudah pindah tanpa lapor ke pengurus lingkungan. Jenis mutasinya keuskupan~~lingkungan~~. Jika suatu hari diketahui pindah lingkungan beda wilayah atau paroki lain, klaim mutasi dulu lalu mutasi kembali dengan jenis sesuai.
 
 - Penambahan Anggota KK BIDUK
 
@@ -222,7 +222,7 @@ Kami dapat dihubungi melalui email [data@sathora.or.id](mailto:data@sathora.or.i
 
 ## Riwayat Perubahan
 
-1. 21/03/2022 Revisi prosedur buat KK BIDUK baru (K02). Penambahan Excel file berisi contoh data yang perlu umat isi/revisi. Penambahan penjelasan menu BIDUK. Revisi prosedur mutasi almarhum (A05).
+1. 21/03/2022 Revisi prosedur buat KK BIDUK baru (K02). Penambahan Excel file berisi contoh data yang perlu umat isi/revisi. Penambahan penjelasan menu BIDUK. Revisi prosedur mutasi almarhum (A05). Revisi jenis mutasi menjadi keuskupan bagi umat tak jelas yang dikeluarkan dari lingkungan.
 2. 13/03/2022 Penambahan minimal data wajib pada setiap prosedur. Penambahan tautan 'Tanya jawab' pada Indeks.
 3. 10/03/2022 Versi final bagi TFT.
 4. 9/03/2022 Revisi pengurus lingkungan dapat menerima semua jenis mutasi umat tanpa bantuan petugas sekretarit gereja.
