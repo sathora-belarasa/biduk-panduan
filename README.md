@@ -100,7 +100,7 @@ Berikut beberapa kemungkinan skenario terkait BIDUK. Tidak menutup skenario lain
 
     * Sekeluarga pindah keluar domisili ke lingkungan baru dalam Sathora, atau ke luar Sathora.
     * Sekeluarga pindah masuk domisi ke lingkungan.
-    * Sekeluarga sudah pindah tanpa lapor ke pengurus lingkungan. Jenis mutasinya keuskupan~~lingkungan~~. Jika suatu hari diketahui pindah lingkungan beda wilayah atau paroki lain, klaim mutasi dulu lalu mutasi kembali dengan jenis sesuai.
+    * Sekeluarga sudah pindah tanpa lapor ke pengurus lingkungan. Jenis mutasinya keuskupan~~lingkungan~~ (keputusan KAJ). Jika suatu hari diketahui pindah lingkungan beda wilayah atau paroki lain, klaim mutasi dulu lalu mutasi kembali dengan jenis sesuai.
 
 - Penambahan Anggota KK BIDUK
 
