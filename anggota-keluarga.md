@@ -159,7 +159,7 @@
 9. Jika kepala keluarga yang berubah status almarhumnya, kepala keluarga baru wajib dipilih dari anggota keluarga.
 10. Masukkan tanggal meninggal almarhum.
 11. Tekan tombol Simpan.
-12. Jika KK BIDUK dengan semua anggota berstatus almarhum, lanjut mutasikan KK BIDUK dengan jenis mutasi keuskupan.
+12. (21/03/2022) Jika KK BIDUK dengan semua anggota berstatus almarhum, lanjut mutasikan KK BIDUK dengan jenis mutasi keuskupan (keputusan KAJ).
 
 <a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
