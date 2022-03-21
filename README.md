@@ -222,7 +222,7 @@ Kami dapat dihubungi melalui email [data@sathora.or.id](mailto:data@sathora.or.i
 
 ## Riwayat Perubahan
 
-1. 21/03/2022 Revisi prosedur buat KK BIDUK baru (K02). Penambahan Excel file berisi contoh data yang perlu umat isi/revisi. Penambahan penjelasan menu BIDUK.
+1. 21/03/2022 Revisi prosedur buat KK BIDUK baru (K02). Penambahan Excel file berisi contoh data yang perlu umat isi/revisi. Penambahan penjelasan menu BIDUK. Revisi prosedur mutasi almarhum (A05).
 2. 13/03/2022 Penambahan minimal data wajib pada setiap prosedur. Penambahan tautan 'Tanya jawab' pada Indeks.
 3. 10/03/2022 Versi final bagi TFT.
 4. 9/03/2022 Revisi pengurus lingkungan dapat menerima semua jenis mutasi umat tanpa bantuan petugas sekretarit gereja.
