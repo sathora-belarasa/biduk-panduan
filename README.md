@@ -7,7 +7,7 @@ Dokumen ini tidak menjelaskan kolom data yang sebaiknya diisi. BIDUK menandai ko
 
 Pengurus lingkungan yang akan menggunakan BIDUK sebaiknya memiliki kemampuan menggunakan komputer dasar seperti menggunakan *browser*; aplikasi *spreadsheet*: Microsoft Excel, Google Sheet.
 
-Versi 220313-1915. Lihat <a href="#riwayat-perubahan">riwayat perubahan</a>.
+Versi 220321-2008. Lihat <a href="#riwayat-perubahan">riwayat perubahan</a>.
 
 ## Indeks
 
@@ -19,7 +19,8 @@ Versi 220313-1915. Lihat <a href="#riwayat-perubahan">riwayat perubahan</a>.
 6. <a href="#tips" alt="Tips">Tips</a>
 7. <a href="tanya-jawab" alt="Tanya jawab">Tanya jawab</a>
 8. <a href="#predefined-values" alt="Predefined values">Predefined Values</a>
-9. <a href="#narahubung" alt="Narahubung">Narahubung</a>
+9. <a href="#excel-data-umat" alt="Excel Data Umat">Excel Data Umat</a>
+10. <a href="#narahubung" alt="Narahubung">Narahubung</a>
 
 ## Istilah
 
@@ -170,6 +171,14 @@ Berikut pilihan-pilihan yang telah disediakan BIDUK untuk beberapa kolom tertent
 
 <a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
 
+## Excel Data Umat
+
+Berikut contoh usulan Excel file berisi data yang umat perlu isi/revisi:
+
+<a href="docs/excel-data-umat-220320.xlsx" target="_blank" alt="Excel Data Umat">![Excel Data Umat](docs/icons8-microsoft-excel-2019-240.png)</a>.
+
+<a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
+
 ## Narahubung
 
 Kami dapat dihubungi melalui email [data@sathora.or.id](mailto:data@sathora.or.id) bagi pengurus lingkungan hadapi kendala ketika mengelola data umatnya.
@@ -178,10 +187,11 @@ Kami dapat dihubungi melalui email [data@sathora.or.id](mailto:data@sathora.or.i
 
 ## Riwayat Perubahan
 
-1. 13/03/2022 Penambahan minimal data wajib pada setiap prosedur. Penambahan tautan 'Tanya jawab' pada Indeks.
-2. 10/03/2022 Versi final bagi TFT.
-3. 9/03/2022 Revisi pengurus lingkungan dapat menerima semua jenis mutasi umat tanpa bantuan petugas sekretarit gereja.
-4. 8/03/2022 Revisi blangko permohonan KK BIDUK dan Anggota KK BIDUK baru diserahkan ke gereja diganti menjadi dikembalikan ke umat pemohon.
-5. 3/03/2022 Pengurus lingkungan urus data umat sakramental terbatas (baptis & komper, krisma, perkawinan). Pencantuman kode pada setiap prosedur agar mudah dirujuk skenario.
+1. 21/03/2022 Revisi prosedur buat KK BIDUK baru. Penambahan Excel file berisi contoh data yang perlu umat isi/revisi. Penambahan penjelasan menu BIDUK.
+2. 13/03/2022 Penambahan minimal data wajib pada setiap prosedur. Penambahan tautan 'Tanya jawab' pada Indeks.
+3. 10/03/2022 Versi final bagi TFT.
+4. 9/03/2022 Revisi pengurus lingkungan dapat menerima semua jenis mutasi umat tanpa bantuan petugas sekretarit gereja.
+5. 8/03/2022 Revisi blangko permohonan KK BIDUK dan Anggota KK BIDUK baru diserahkan ke gereja diganti menjadi dikembalikan ke umat pemohon.
+6. 3/03/2022 Pengurus lingkungan urus data umat sakramental terbatas (baptis & komper, krisma, perkawinan). Pencantuman kode pada setiap prosedur agar mudah dirujuk skenario.
 
 <a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
