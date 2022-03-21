@@ -75,8 +75,8 @@
       Ada 2 pilihan jenis data: (a) Data Baru dan (b) Data Pindahan Dari Paroki Lain Tanpa BIDUK.
       Data Pindahan menampilkan kolom tanggal keluar, asal keuskupan, asal paroki.
 
-10. Setelah pembuatan KK BIDUK berhasil, KK BIDUK dapat dicetak dan diserahkan kepada umat pemohon sebagai bukti.
-11. Pengurus lingkungan ~~menyerahkan~~ mengembalikan blangko terisi beserta lampirannya ke umat pemohon~~sekretariat gereja untuk diarsip~~.
+10. Setelah pembuatan KK BIDUK berhasil, pengurus lingkungan membawa semua blangko terisi beserta lampiran pendukung ke sekretariat gereja untuk cetak KK BIDUK di atas kertas khusus. ~~KK BIDUK dapat dicetak dan diserahkan kepada umat pemohon sebagai bukti~~.
+11. Pengurus lingkungan ~~menyerahkan~~ mengembalikan semua blangko terisi beserta lampirannya ke umat pemohon~~sekretariat gereja untuk diarsip~~ sekaligus menyerahterimakan KK BIDUK yang dicetak sekretariat gereja.
 
 <a href="#apa-yang-ingin-saya-lakukan">Kembali ke Apa Yang Ingin Saya Lakukan</a>
 
