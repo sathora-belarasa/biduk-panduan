@@ -210,7 +210,7 @@ Berikut pilihan-pilihan yang telah disediakan BIDUK untuk beberapa kolom tertent
 
 Berikut contoh usulan Excel file berisi data yang umat perlu isi/revisi:
 
-<a href="docs/excel-data-umat-220320.xlsx" target="_blank" alt="Excel Data Umat">![Excel Data Umat](docs/icons8-microsoft-excel-2019-240.png)</a>.
+<a href="docs/excel-data-umat-220320.xlsx" target="_blank" alt="Excel Data Umat">![Excel Data Umat](docs/icon-microsoft-excel.png)</a>.
 
 <a href="#indeks" alt="Kembali ke Indeks">^ Kembali ke Indeks</a>
 
